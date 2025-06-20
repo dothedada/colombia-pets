@@ -1,0 +1,5582 @@
+[
+  {
+    "departmentId": "AMZ",
+    "year": 2000,
+    "petId": 1,
+    "count": 152
+  },
+  {
+    "departmentId": "AMZ",
+    "year": 2000,
+    "petId": 2,
+    "count": 106
+  },
+  {
+    "departmentId": "AMZ",
+    "year": 2000,
+    "petId": 3,
+    "count": 5
+  },
+  {
+    "departmentId": "AMZ",
+    "year": 2000,
+    "petId": 4,
+    "count": 32
+  },
+  {
+    "departmentId": "AMZ",
+    "year": 2000,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "AMZ",
+    "year": 2005,
+    "petId": 1,
+    "count": 80
+  },
+  {
+    "departmentId": "AMZ",
+    "year": 2005,
+    "petId": 2,
+    "count": 106
+  },
+  {
+    "departmentId": "AMZ",
+    "year": 2005,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "AMZ",
+    "year": 2005,
+    "petId": 4,
+    "count": 24
+  },
+  {
+    "departmentId": "AMZ",
+    "year": 2005,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "AMZ",
+    "year": 2010,
+    "petId": 1,
+    "count": 82
+  },
+  {
+    "departmentId": "AMZ",
+    "year": 2010,
+    "petId": 2,
+    "count": 200
+  },
+  {
+    "departmentId": "AMZ",
+    "year": 2010,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "AMZ",
+    "year": 2010,
+    "petId": 4,
+    "count": 40
+  },
+  {
+    "departmentId": "AMZ",
+    "year": 2010,
+    "petId": 5,
+    "count": 10
+  },
+  {
+    "departmentId": "AMZ",
+    "year": 2015,
+    "petId": 1,
+    "count": 93
+  },
+  {
+    "departmentId": "AMZ",
+    "year": 2015,
+    "petId": 2,
+    "count": 86
+  },
+  {
+    "departmentId": "AMZ",
+    "year": 2015,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "AMZ",
+    "year": 2015,
+    "petId": 4,
+    "count": 48
+  },
+  {
+    "departmentId": "AMZ",
+    "year": 2015,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "AMZ",
+    "year": 2020,
+    "petId": 1,
+    "count": 94
+  },
+  {
+    "departmentId": "AMZ",
+    "year": 2020,
+    "petId": 2,
+    "count": 167
+  },
+  {
+    "departmentId": "AMZ",
+    "year": 2020,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "AMZ",
+    "year": 2020,
+    "petId": 4,
+    "count": 28
+  },
+  {
+    "departmentId": "AMZ",
+    "year": 2020,
+    "petId": 5,
+    "count": 10
+  },
+  {
+    "departmentId": "AMZ",
+    "year": 2025,
+    "petId": 1,
+    "count": 191
+  },
+  {
+    "departmentId": "AMZ",
+    "year": 2025,
+    "petId": 2,
+    "count": 114
+  },
+  {
+    "departmentId": "AMZ",
+    "year": 2025,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "AMZ",
+    "year": 2025,
+    "petId": 4,
+    "count": 18
+  },
+  {
+    "departmentId": "AMZ",
+    "year": 2025,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "ANT",
+    "year": 2000,
+    "petId": 1,
+    "count": 176
+  },
+  {
+    "departmentId": "ANT",
+    "year": 2000,
+    "petId": 2,
+    "count": 159
+  },
+  {
+    "departmentId": "ANT",
+    "year": 2000,
+    "petId": 3,
+    "count": 10
+  },
+  {
+    "departmentId": "ANT",
+    "year": 2000,
+    "petId": 4,
+    "count": 37
+  },
+  {
+    "departmentId": "ANT",
+    "year": 2000,
+    "petId": 5,
+    "count": 10
+  },
+  {
+    "departmentId": "ANT",
+    "year": 2005,
+    "petId": 1,
+    "count": 71
+  },
+  {
+    "departmentId": "ANT",
+    "year": 2005,
+    "petId": 2,
+    "count": 150
+  },
+  {
+    "departmentId": "ANT",
+    "year": 2005,
+    "petId": 3,
+    "count": 5
+  },
+  {
+    "departmentId": "ANT",
+    "year": 2005,
+    "petId": 4,
+    "count": 26
+  },
+  {
+    "departmentId": "ANT",
+    "year": 2005,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "ANT",
+    "year": 2010,
+    "petId": 1,
+    "count": 181
+  },
+  {
+    "departmentId": "ANT",
+    "year": 2010,
+    "petId": 2,
+    "count": 126
+  },
+  {
+    "departmentId": "ANT",
+    "year": 2010,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "ANT",
+    "year": 2010,
+    "petId": 4,
+    "count": 10
+  },
+  {
+    "departmentId": "ANT",
+    "year": 2010,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "ANT",
+    "year": 2015,
+    "petId": 1,
+    "count": 155
+  },
+  {
+    "departmentId": "ANT",
+    "year": 2015,
+    "petId": 2,
+    "count": 190
+  },
+  {
+    "departmentId": "ANT",
+    "year": 2015,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "ANT",
+    "year": 2015,
+    "petId": 4,
+    "count": 25
+  },
+  {
+    "departmentId": "ANT",
+    "year": 2015,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "ANT",
+    "year": 2020,
+    "petId": 1,
+    "count": 131
+  },
+  {
+    "departmentId": "ANT",
+    "year": 2020,
+    "petId": 2,
+    "count": 185
+  },
+  {
+    "departmentId": "ANT",
+    "year": 2020,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "ANT",
+    "year": 2020,
+    "petId": 4,
+    "count": 44
+  },
+  {
+    "departmentId": "ANT",
+    "year": 2020,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "ANT",
+    "year": 2025,
+    "petId": 1,
+    "count": 195
+  },
+  {
+    "departmentId": "ANT",
+    "year": 2025,
+    "petId": 2,
+    "count": 126
+  },
+  {
+    "departmentId": "ANT",
+    "year": 2025,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "ANT",
+    "year": 2025,
+    "petId": 4,
+    "count": 21
+  },
+  {
+    "departmentId": "ANT",
+    "year": 2025,
+    "petId": 5,
+    "count": 5
+  },
+  {
+    "departmentId": "ARA",
+    "year": 2000,
+    "petId": 1,
+    "count": 130
+  },
+  {
+    "departmentId": "ARA",
+    "year": 2000,
+    "petId": 2,
+    "count": 62
+  },
+  {
+    "departmentId": "ARA",
+    "year": 2000,
+    "petId": 3,
+    "count": 10
+  },
+  {
+    "departmentId": "ARA",
+    "year": 2000,
+    "petId": 4,
+    "count": 18
+  },
+  {
+    "departmentId": "ARA",
+    "year": 2000,
+    "petId": 5,
+    "count": 5
+  },
+  {
+    "departmentId": "ARA",
+    "year": 2005,
+    "petId": 1,
+    "count": 131
+  },
+  {
+    "departmentId": "ARA",
+    "year": 2005,
+    "petId": 2,
+    "count": 120
+  },
+  {
+    "departmentId": "ARA",
+    "year": 2005,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "ARA",
+    "year": 2005,
+    "petId": 4,
+    "count": 39
+  },
+  {
+    "departmentId": "ARA",
+    "year": 2005,
+    "petId": 5,
+    "count": 10
+  },
+  {
+    "departmentId": "ARA",
+    "year": 2010,
+    "petId": 1,
+    "count": 112
+  },
+  {
+    "departmentId": "ARA",
+    "year": 2010,
+    "petId": 2,
+    "count": 114
+  },
+  {
+    "departmentId": "ARA",
+    "year": 2010,
+    "petId": 3,
+    "count": 5
+  },
+  {
+    "departmentId": "ARA",
+    "year": 2010,
+    "petId": 4,
+    "count": 30
+  },
+  {
+    "departmentId": "ARA",
+    "year": 2010,
+    "petId": 5,
+    "count": 5
+  },
+  {
+    "departmentId": "ARA",
+    "year": 2015,
+    "petId": 1,
+    "count": 135
+  },
+  {
+    "departmentId": "ARA",
+    "year": 2015,
+    "petId": 2,
+    "count": 94
+  },
+  {
+    "departmentId": "ARA",
+    "year": 2015,
+    "petId": 3,
+    "count": 10
+  },
+  {
+    "departmentId": "ARA",
+    "year": 2015,
+    "petId": 4,
+    "count": 40
+  },
+  {
+    "departmentId": "ARA",
+    "year": 2015,
+    "petId": 5,
+    "count": 5
+  },
+  {
+    "departmentId": "ARA",
+    "year": 2020,
+    "petId": 1,
+    "count": 94
+  },
+  {
+    "departmentId": "ARA",
+    "year": 2020,
+    "petId": 2,
+    "count": 130
+  },
+  {
+    "departmentId": "ARA",
+    "year": 2020,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "ARA",
+    "year": 2020,
+    "petId": 4,
+    "count": 28
+  },
+  {
+    "departmentId": "ARA",
+    "year": 2020,
+    "petId": 5,
+    "count": 10
+  },
+  {
+    "departmentId": "ARA",
+    "year": 2025,
+    "petId": 1,
+    "count": 133
+  },
+  {
+    "departmentId": "ARA",
+    "year": 2025,
+    "petId": 2,
+    "count": 80
+  },
+  {
+    "departmentId": "ARA",
+    "year": 2025,
+    "petId": 3,
+    "count": 5
+  },
+  {
+    "departmentId": "ARA",
+    "year": 2025,
+    "petId": 4,
+    "count": 31
+  },
+  {
+    "departmentId": "ARA",
+    "year": 2025,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "ATL",
+    "year": 2000,
+    "petId": 1,
+    "count": 127
+  },
+  {
+    "departmentId": "ATL",
+    "year": 2000,
+    "petId": 2,
+    "count": 186
+  },
+  {
+    "departmentId": "ATL",
+    "year": 2000,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "ATL",
+    "year": 2000,
+    "petId": 4,
+    "count": 21
+  },
+  {
+    "departmentId": "ATL",
+    "year": 2000,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "ATL",
+    "year": 2005,
+    "petId": 1,
+    "count": 157
+  },
+  {
+    "departmentId": "ATL",
+    "year": 2005,
+    "petId": 2,
+    "count": 71
+  },
+  {
+    "departmentId": "ATL",
+    "year": 2005,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "ATL",
+    "year": 2005,
+    "petId": 4,
+    "count": 13
+  },
+  {
+    "departmentId": "ATL",
+    "year": 2005,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "ATL",
+    "year": 2010,
+    "petId": 1,
+    "count": 199
+  },
+  {
+    "departmentId": "ATL",
+    "year": 2010,
+    "petId": 2,
+    "count": 70
+  },
+  {
+    "departmentId": "ATL",
+    "year": 2010,
+    "petId": 3,
+    "count": 10
+  },
+  {
+    "departmentId": "ATL",
+    "year": 2010,
+    "petId": 4,
+    "count": 41
+  },
+  {
+    "departmentId": "ATL",
+    "year": 2010,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "ATL",
+    "year": 2015,
+    "petId": 1,
+    "count": 133
+  },
+  {
+    "departmentId": "ATL",
+    "year": 2015,
+    "petId": 2,
+    "count": 168
+  },
+  {
+    "departmentId": "ATL",
+    "year": 2015,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "ATL",
+    "year": 2015,
+    "petId": 4,
+    "count": 19
+  },
+  {
+    "departmentId": "ATL",
+    "year": 2015,
+    "petId": 5,
+    "count": 10
+  },
+  {
+    "departmentId": "ATL",
+    "year": 2020,
+    "petId": 1,
+    "count": 92
+  },
+  {
+    "departmentId": "ATL",
+    "year": 2020,
+    "petId": 2,
+    "count": 173
+  },
+  {
+    "departmentId": "ATL",
+    "year": 2020,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "ATL",
+    "year": 2020,
+    "petId": 4,
+    "count": 37
+  },
+  {
+    "departmentId": "ATL",
+    "year": 2020,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "ATL",
+    "year": 2025,
+    "petId": 1,
+    "count": 169
+  },
+  {
+    "departmentId": "ATL",
+    "year": 2025,
+    "petId": 2,
+    "count": 151
+  },
+  {
+    "departmentId": "ATL",
+    "year": 2025,
+    "petId": 3,
+    "count": 10
+  },
+  {
+    "departmentId": "ATL",
+    "year": 2025,
+    "petId": 4,
+    "count": 16
+  },
+  {
+    "departmentId": "ATL",
+    "year": 2025,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "BOL",
+    "year": 2000,
+    "petId": 1,
+    "count": 69
+  },
+  {
+    "departmentId": "BOL",
+    "year": 2000,
+    "petId": 2,
+    "count": 193
+  },
+  {
+    "departmentId": "BOL",
+    "year": 2000,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "BOL",
+    "year": 2000,
+    "petId": 4,
+    "count": 17
+  },
+  {
+    "departmentId": "BOL",
+    "year": 2000,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "BOL",
+    "year": 2005,
+    "petId": 1,
+    "count": 70
+  },
+  {
+    "departmentId": "BOL",
+    "year": 2005,
+    "petId": 2,
+    "count": 97
+  },
+  {
+    "departmentId": "BOL",
+    "year": 2005,
+    "petId": 3,
+    "count": 5
+  },
+  {
+    "departmentId": "BOL",
+    "year": 2005,
+    "petId": 4,
+    "count": 42
+  },
+  {
+    "departmentId": "BOL",
+    "year": 2005,
+    "petId": 5,
+    "count": 5
+  },
+  {
+    "departmentId": "BOL",
+    "year": 2010,
+    "petId": 1,
+    "count": 169
+  },
+  {
+    "departmentId": "BOL",
+    "year": 2010,
+    "petId": 2,
+    "count": 138
+  },
+  {
+    "departmentId": "BOL",
+    "year": 2010,
+    "petId": 3,
+    "count": 10
+  },
+  {
+    "departmentId": "BOL",
+    "year": 2010,
+    "petId": 4,
+    "count": 43
+  },
+  {
+    "departmentId": "BOL",
+    "year": 2010,
+    "petId": 5,
+    "count": 10
+  },
+  {
+    "departmentId": "BOL",
+    "year": 2015,
+    "petId": 1,
+    "count": 69
+  },
+  {
+    "departmentId": "BOL",
+    "year": 2015,
+    "petId": 2,
+    "count": 82
+  },
+  {
+    "departmentId": "BOL",
+    "year": 2015,
+    "petId": 3,
+    "count": 10
+  },
+  {
+    "departmentId": "BOL",
+    "year": 2015,
+    "petId": 4,
+    "count": 15
+  },
+  {
+    "departmentId": "BOL",
+    "year": 2015,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "BOL",
+    "year": 2020,
+    "petId": 1,
+    "count": 188
+  },
+  {
+    "departmentId": "BOL",
+    "year": 2020,
+    "petId": 2,
+    "count": 92
+  },
+  {
+    "departmentId": "BOL",
+    "year": 2020,
+    "petId": 3,
+    "count": 10
+  },
+  {
+    "departmentId": "BOL",
+    "year": 2020,
+    "petId": 4,
+    "count": 44
+  },
+  {
+    "departmentId": "BOL",
+    "year": 2020,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "BOL",
+    "year": 2025,
+    "petId": 1,
+    "count": 174
+  },
+  {
+    "departmentId": "BOL",
+    "year": 2025,
+    "petId": 2,
+    "count": 102
+  },
+  {
+    "departmentId": "BOL",
+    "year": 2025,
+    "petId": 3,
+    "count": 5
+  },
+  {
+    "departmentId": "BOL",
+    "year": 2025,
+    "petId": 4,
+    "count": 38
+  },
+  {
+    "departmentId": "BOL",
+    "year": 2025,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "BOY",
+    "year": 2000,
+    "petId": 1,
+    "count": 117
+  },
+  {
+    "departmentId": "BOY",
+    "year": 2000,
+    "petId": 2,
+    "count": 109
+  },
+  {
+    "departmentId": "BOY",
+    "year": 2000,
+    "petId": 3,
+    "count": 10
+  },
+  {
+    "departmentId": "BOY",
+    "year": 2000,
+    "petId": 4,
+    "count": 18
+  },
+  {
+    "departmentId": "BOY",
+    "year": 2000,
+    "petId": 5,
+    "count": 5
+  },
+  {
+    "departmentId": "BOY",
+    "year": 2005,
+    "petId": 1,
+    "count": 110
+  },
+  {
+    "departmentId": "BOY",
+    "year": 2005,
+    "petId": 2,
+    "count": 97
+  },
+  {
+    "departmentId": "BOY",
+    "year": 2005,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "BOY",
+    "year": 2005,
+    "petId": 4,
+    "count": 38
+  },
+  {
+    "departmentId": "BOY",
+    "year": 2005,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "BOY",
+    "year": 2010,
+    "petId": 1,
+    "count": 132
+  },
+  {
+    "departmentId": "BOY",
+    "year": 2010,
+    "petId": 2,
+    "count": 155
+  },
+  {
+    "departmentId": "BOY",
+    "year": 2010,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "BOY",
+    "year": 2010,
+    "petId": 4,
+    "count": 10
+  },
+  {
+    "departmentId": "BOY",
+    "year": 2010,
+    "petId": 5,
+    "count": 5
+  },
+  {
+    "departmentId": "BOY",
+    "year": 2015,
+    "petId": 1,
+    "count": 76
+  },
+  {
+    "departmentId": "BOY",
+    "year": 2015,
+    "petId": 2,
+    "count": 94
+  },
+  {
+    "departmentId": "BOY",
+    "year": 2015,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "BOY",
+    "year": 2015,
+    "petId": 4,
+    "count": 35
+  },
+  {
+    "departmentId": "BOY",
+    "year": 2015,
+    "petId": 5,
+    "count": 5
+  },
+  {
+    "departmentId": "BOY",
+    "year": 2020,
+    "petId": 1,
+    "count": 143
+  },
+  {
+    "departmentId": "BOY",
+    "year": 2020,
+    "petId": 2,
+    "count": 178
+  },
+  {
+    "departmentId": "BOY",
+    "year": 2020,
+    "petId": 3,
+    "count": 5
+  },
+  {
+    "departmentId": "BOY",
+    "year": 2020,
+    "petId": 4,
+    "count": 31
+  },
+  {
+    "departmentId": "BOY",
+    "year": 2020,
+    "petId": 5,
+    "count": 5
+  },
+  {
+    "departmentId": "BOY",
+    "year": 2025,
+    "petId": 1,
+    "count": 124
+  },
+  {
+    "departmentId": "BOY",
+    "year": 2025,
+    "petId": 2,
+    "count": 198
+  },
+  {
+    "departmentId": "BOY",
+    "year": 2025,
+    "petId": 3,
+    "count": 10
+  },
+  {
+    "departmentId": "BOY",
+    "year": 2025,
+    "petId": 4,
+    "count": 27
+  },
+  {
+    "departmentId": "BOY",
+    "year": 2025,
+    "petId": 5,
+    "count": 10
+  },
+  {
+    "departmentId": "CAL",
+    "year": 2000,
+    "petId": 1,
+    "count": 193
+  },
+  {
+    "departmentId": "CAL",
+    "year": 2000,
+    "petId": 2,
+    "count": 118
+  },
+  {
+    "departmentId": "CAL",
+    "year": 2000,
+    "petId": 3,
+    "count": 5
+  },
+  {
+    "departmentId": "CAL",
+    "year": 2000,
+    "petId": 4,
+    "count": 11
+  },
+  {
+    "departmentId": "CAL",
+    "year": 2000,
+    "petId": 5,
+    "count": 5
+  },
+  {
+    "departmentId": "CAL",
+    "year": 2005,
+    "petId": 1,
+    "count": 123
+  },
+  {
+    "departmentId": "CAL",
+    "year": 2005,
+    "petId": 2,
+    "count": 103
+  },
+  {
+    "departmentId": "CAL",
+    "year": 2005,
+    "petId": 3,
+    "count": 10
+  },
+  {
+    "departmentId": "CAL",
+    "year": 2005,
+    "petId": 4,
+    "count": 20
+  },
+  {
+    "departmentId": "CAL",
+    "year": 2005,
+    "petId": 5,
+    "count": 10
+  },
+  {
+    "departmentId": "CAL",
+    "year": 2010,
+    "petId": 1,
+    "count": 134
+  },
+  {
+    "departmentId": "CAL",
+    "year": 2010,
+    "petId": 2,
+    "count": 187
+  },
+  {
+    "departmentId": "CAL",
+    "year": 2010,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "CAL",
+    "year": 2010,
+    "petId": 4,
+    "count": 25
+  },
+  {
+    "departmentId": "CAL",
+    "year": 2010,
+    "petId": 5,
+    "count": 5
+  },
+  {
+    "departmentId": "CAL",
+    "year": 2015,
+    "petId": 1,
+    "count": 152
+  },
+  {
+    "departmentId": "CAL",
+    "year": 2015,
+    "petId": 2,
+    "count": 161
+  },
+  {
+    "departmentId": "CAL",
+    "year": 2015,
+    "petId": 3,
+    "count": 5
+  },
+  {
+    "departmentId": "CAL",
+    "year": 2015,
+    "petId": 4,
+    "count": 14
+  },
+  {
+    "departmentId": "CAL",
+    "year": 2015,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "CAL",
+    "year": 2020,
+    "petId": 1,
+    "count": 86
+  },
+  {
+    "departmentId": "CAL",
+    "year": 2020,
+    "petId": 2,
+    "count": 186
+  },
+  {
+    "departmentId": "CAL",
+    "year": 2020,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "CAL",
+    "year": 2020,
+    "petId": 4,
+    "count": 14
+  },
+  {
+    "departmentId": "CAL",
+    "year": 2020,
+    "petId": 5,
+    "count": 10
+  },
+  {
+    "departmentId": "CAL",
+    "year": 2025,
+    "petId": 1,
+    "count": 102
+  },
+  {
+    "departmentId": "CAL",
+    "year": 2025,
+    "petId": 2,
+    "count": 139
+  },
+  {
+    "departmentId": "CAL",
+    "year": 2025,
+    "petId": 3,
+    "count": 5
+  },
+  {
+    "departmentId": "CAL",
+    "year": 2025,
+    "petId": 4,
+    "count": 35
+  },
+  {
+    "departmentId": "CAL",
+    "year": 2025,
+    "petId": 5,
+    "count": 5
+  },
+  {
+    "departmentId": "CAQ",
+    "year": 2000,
+    "petId": 1,
+    "count": 110
+  },
+  {
+    "departmentId": "CAQ",
+    "year": 2000,
+    "petId": 2,
+    "count": 136
+  },
+  {
+    "departmentId": "CAQ",
+    "year": 2000,
+    "petId": 3,
+    "count": 5
+  },
+  {
+    "departmentId": "CAQ",
+    "year": 2000,
+    "petId": 4,
+    "count": 26
+  },
+  {
+    "departmentId": "CAQ",
+    "year": 2000,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "CAQ",
+    "year": 2005,
+    "petId": 1,
+    "count": 191
+  },
+  {
+    "departmentId": "CAQ",
+    "year": 2005,
+    "petId": 2,
+    "count": 77
+  },
+  {
+    "departmentId": "CAQ",
+    "year": 2005,
+    "petId": 3,
+    "count": 10
+  },
+  {
+    "departmentId": "CAQ",
+    "year": 2005,
+    "petId": 4,
+    "count": 10
+  },
+  {
+    "departmentId": "CAQ",
+    "year": 2005,
+    "petId": 5,
+    "count": 10
+  },
+  {
+    "departmentId": "CAQ",
+    "year": 2010,
+    "petId": 1,
+    "count": 120
+  },
+  {
+    "departmentId": "CAQ",
+    "year": 2010,
+    "petId": 2,
+    "count": 186
+  },
+  {
+    "departmentId": "CAQ",
+    "year": 2010,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "CAQ",
+    "year": 2010,
+    "petId": 4,
+    "count": 30
+  },
+  {
+    "departmentId": "CAQ",
+    "year": 2010,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "CAQ",
+    "year": 2015,
+    "petId": 1,
+    "count": 92
+  },
+  {
+    "departmentId": "CAQ",
+    "year": 2015,
+    "petId": 2,
+    "count": 96
+  },
+  {
+    "departmentId": "CAQ",
+    "year": 2015,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "CAQ",
+    "year": 2015,
+    "petId": 4,
+    "count": 39
+  },
+  {
+    "departmentId": "CAQ",
+    "year": 2015,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "CAQ",
+    "year": 2020,
+    "petId": 1,
+    "count": 111
+  },
+  {
+    "departmentId": "CAQ",
+    "year": 2020,
+    "petId": 2,
+    "count": 174
+  },
+  {
+    "departmentId": "CAQ",
+    "year": 2020,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "CAQ",
+    "year": 2020,
+    "petId": 4,
+    "count": 26
+  },
+  {
+    "departmentId": "CAQ",
+    "year": 2020,
+    "petId": 5,
+    "count": 5
+  },
+  {
+    "departmentId": "CAQ",
+    "year": 2025,
+    "petId": 1,
+    "count": 194
+  },
+  {
+    "departmentId": "CAQ",
+    "year": 2025,
+    "petId": 2,
+    "count": 118
+  },
+  {
+    "departmentId": "CAQ",
+    "year": 2025,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "CAQ",
+    "year": 2025,
+    "petId": 4,
+    "count": 44
+  },
+  {
+    "departmentId": "CAQ",
+    "year": 2025,
+    "petId": 5,
+    "count": 5
+  },
+  {
+    "departmentId": "CAS",
+    "year": 2000,
+    "petId": 1,
+    "count": 176
+  },
+  {
+    "departmentId": "CAS",
+    "year": 2000,
+    "petId": 2,
+    "count": 124
+  },
+  {
+    "departmentId": "CAS",
+    "year": 2000,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "CAS",
+    "year": 2000,
+    "petId": 4,
+    "count": 16
+  },
+  {
+    "departmentId": "CAS",
+    "year": 2000,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "CAS",
+    "year": 2005,
+    "petId": 1,
+    "count": 58
+  },
+  {
+    "departmentId": "CAS",
+    "year": 2005,
+    "petId": 2,
+    "count": 129
+  },
+  {
+    "departmentId": "CAS",
+    "year": 2005,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "CAS",
+    "year": 2005,
+    "petId": 4,
+    "count": 11
+  },
+  {
+    "departmentId": "CAS",
+    "year": 2005,
+    "petId": 5,
+    "count": 5
+  },
+  {
+    "departmentId": "CAS",
+    "year": 2010,
+    "petId": 1,
+    "count": 200
+  },
+  {
+    "departmentId": "CAS",
+    "year": 2010,
+    "petId": 2,
+    "count": 65
+  },
+  {
+    "departmentId": "CAS",
+    "year": 2010,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "CAS",
+    "year": 2010,
+    "petId": 4,
+    "count": 37
+  },
+  {
+    "departmentId": "CAS",
+    "year": 2010,
+    "petId": 5,
+    "count": 10
+  },
+  {
+    "departmentId": "CAS",
+    "year": 2015,
+    "petId": 1,
+    "count": 154
+  },
+  {
+    "departmentId": "CAS",
+    "year": 2015,
+    "petId": 2,
+    "count": 180
+  },
+  {
+    "departmentId": "CAS",
+    "year": 2015,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "CAS",
+    "year": 2015,
+    "petId": 4,
+    "count": 40
+  },
+  {
+    "departmentId": "CAS",
+    "year": 2015,
+    "petId": 5,
+    "count": 10
+  },
+  {
+    "departmentId": "CAS",
+    "year": 2020,
+    "petId": 1,
+    "count": 156
+  },
+  {
+    "departmentId": "CAS",
+    "year": 2020,
+    "petId": 2,
+    "count": 168
+  },
+  {
+    "departmentId": "CAS",
+    "year": 2020,
+    "petId": 3,
+    "count": 10
+  },
+  {
+    "departmentId": "CAS",
+    "year": 2020,
+    "petId": 4,
+    "count": 14
+  },
+  {
+    "departmentId": "CAS",
+    "year": 2020,
+    "petId": 5,
+    "count": 5
+  },
+  {
+    "departmentId": "CAS",
+    "year": 2025,
+    "petId": 1,
+    "count": 146
+  },
+  {
+    "departmentId": "CAS",
+    "year": 2025,
+    "petId": 2,
+    "count": 84
+  },
+  {
+    "departmentId": "CAS",
+    "year": 2025,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "CAS",
+    "year": 2025,
+    "petId": 4,
+    "count": 30
+  },
+  {
+    "departmentId": "CAS",
+    "year": 2025,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "CAU",
+    "year": 2000,
+    "petId": 1,
+    "count": 196
+  },
+  {
+    "departmentId": "CAU",
+    "year": 2000,
+    "petId": 2,
+    "count": 136
+  },
+  {
+    "departmentId": "CAU",
+    "year": 2000,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "CAU",
+    "year": 2000,
+    "petId": 4,
+    "count": 32
+  },
+  {
+    "departmentId": "CAU",
+    "year": 2000,
+    "petId": 5,
+    "count": 5
+  },
+  {
+    "departmentId": "CAU",
+    "year": 2005,
+    "petId": 1,
+    "count": 92
+  },
+  {
+    "departmentId": "CAU",
+    "year": 2005,
+    "petId": 2,
+    "count": 164
+  },
+  {
+    "departmentId": "CAU",
+    "year": 2005,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "CAU",
+    "year": 2005,
+    "petId": 4,
+    "count": 19
+  },
+  {
+    "departmentId": "CAU",
+    "year": 2005,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "CAU",
+    "year": 2010,
+    "petId": 1,
+    "count": 127
+  },
+  {
+    "departmentId": "CAU",
+    "year": 2010,
+    "petId": 2,
+    "count": 86
+  },
+  {
+    "departmentId": "CAU",
+    "year": 2010,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "CAU",
+    "year": 2010,
+    "petId": 4,
+    "count": 42
+  },
+  {
+    "departmentId": "CAU",
+    "year": 2010,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "CAU",
+    "year": 2015,
+    "petId": 1,
+    "count": 76
+  },
+  {
+    "departmentId": "CAU",
+    "year": 2015,
+    "petId": 2,
+    "count": 75
+  },
+  {
+    "departmentId": "CAU",
+    "year": 2015,
+    "petId": 3,
+    "count": 5
+  },
+  {
+    "departmentId": "CAU",
+    "year": 2015,
+    "petId": 4,
+    "count": 36
+  },
+  {
+    "departmentId": "CAU",
+    "year": 2015,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "CAU",
+    "year": 2020,
+    "petId": 1,
+    "count": 88
+  },
+  {
+    "departmentId": "CAU",
+    "year": 2020,
+    "petId": 2,
+    "count": 179
+  },
+  {
+    "departmentId": "CAU",
+    "year": 2020,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "CAU",
+    "year": 2020,
+    "petId": 4,
+    "count": 43
+  },
+  {
+    "departmentId": "CAU",
+    "year": 2020,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "CAU",
+    "year": 2025,
+    "petId": 1,
+    "count": 166
+  },
+  {
+    "departmentId": "CAU",
+    "year": 2025,
+    "petId": 2,
+    "count": 195
+  },
+  {
+    "departmentId": "CAU",
+    "year": 2025,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "CAU",
+    "year": 2025,
+    "petId": 4,
+    "count": 28
+  },
+  {
+    "departmentId": "CAU",
+    "year": 2025,
+    "petId": 5,
+    "count": 5
+  },
+  {
+    "departmentId": "CES",
+    "year": 2000,
+    "petId": 1,
+    "count": 75
+  },
+  {
+    "departmentId": "CES",
+    "year": 2000,
+    "petId": 2,
+    "count": 123
+  },
+  {
+    "departmentId": "CES",
+    "year": 2000,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "CES",
+    "year": 2000,
+    "petId": 4,
+    "count": 32
+  },
+  {
+    "departmentId": "CES",
+    "year": 2000,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "CES",
+    "year": 2005,
+    "petId": 1,
+    "count": 78
+  },
+  {
+    "departmentId": "CES",
+    "year": 2005,
+    "petId": 2,
+    "count": 187
+  },
+  {
+    "departmentId": "CES",
+    "year": 2005,
+    "petId": 3,
+    "count": 10
+  },
+  {
+    "departmentId": "CES",
+    "year": 2005,
+    "petId": 4,
+    "count": 32
+  },
+  {
+    "departmentId": "CES",
+    "year": 2005,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "CES",
+    "year": 2010,
+    "petId": 1,
+    "count": 88
+  },
+  {
+    "departmentId": "CES",
+    "year": 2010,
+    "petId": 2,
+    "count": 110
+  },
+  {
+    "departmentId": "CES",
+    "year": 2010,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "CES",
+    "year": 2010,
+    "petId": 4,
+    "count": 41
+  },
+  {
+    "departmentId": "CES",
+    "year": 2010,
+    "petId": 5,
+    "count": 10
+  },
+  {
+    "departmentId": "CES",
+    "year": 2015,
+    "petId": 1,
+    "count": 55
+  },
+  {
+    "departmentId": "CES",
+    "year": 2015,
+    "petId": 2,
+    "count": 138
+  },
+  {
+    "departmentId": "CES",
+    "year": 2015,
+    "petId": 3,
+    "count": 10
+  },
+  {
+    "departmentId": "CES",
+    "year": 2015,
+    "petId": 4,
+    "count": 40
+  },
+  {
+    "departmentId": "CES",
+    "year": 2015,
+    "petId": 5,
+    "count": 10
+  },
+  {
+    "departmentId": "CES",
+    "year": 2020,
+    "petId": 1,
+    "count": 134
+  },
+  {
+    "departmentId": "CES",
+    "year": 2020,
+    "petId": 2,
+    "count": 140
+  },
+  {
+    "departmentId": "CES",
+    "year": 2020,
+    "petId": 3,
+    "count": 10
+  },
+  {
+    "departmentId": "CES",
+    "year": 2020,
+    "petId": 4,
+    "count": 29
+  },
+  {
+    "departmentId": "CES",
+    "year": 2020,
+    "petId": 5,
+    "count": 10
+  },
+  {
+    "departmentId": "CES",
+    "year": 2025,
+    "petId": 1,
+    "count": 55
+  },
+  {
+    "departmentId": "CES",
+    "year": 2025,
+    "petId": 2,
+    "count": 89
+  },
+  {
+    "departmentId": "CES",
+    "year": 2025,
+    "petId": 3,
+    "count": 10
+  },
+  {
+    "departmentId": "CES",
+    "year": 2025,
+    "petId": 4,
+    "count": 19
+  },
+  {
+    "departmentId": "CES",
+    "year": 2025,
+    "petId": 5,
+    "count": 10
+  },
+  {
+    "departmentId": "CHO",
+    "year": 2000,
+    "petId": 1,
+    "count": 66
+  },
+  {
+    "departmentId": "CHO",
+    "year": 2000,
+    "petId": 2,
+    "count": 176
+  },
+  {
+    "departmentId": "CHO",
+    "year": 2000,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "CHO",
+    "year": 2000,
+    "petId": 4,
+    "count": 14
+  },
+  {
+    "departmentId": "CHO",
+    "year": 2000,
+    "petId": 5,
+    "count": 5
+  },
+  {
+    "departmentId": "CHO",
+    "year": 2005,
+    "petId": 1,
+    "count": 51
+  },
+  {
+    "departmentId": "CHO",
+    "year": 2005,
+    "petId": 2,
+    "count": 98
+  },
+  {
+    "departmentId": "CHO",
+    "year": 2005,
+    "petId": 3,
+    "count": 10
+  },
+  {
+    "departmentId": "CHO",
+    "year": 2005,
+    "petId": 4,
+    "count": 32
+  },
+  {
+    "departmentId": "CHO",
+    "year": 2005,
+    "petId": 5,
+    "count": 10
+  },
+  {
+    "departmentId": "CHO",
+    "year": 2010,
+    "petId": 1,
+    "count": 183
+  },
+  {
+    "departmentId": "CHO",
+    "year": 2010,
+    "petId": 2,
+    "count": 72
+  },
+  {
+    "departmentId": "CHO",
+    "year": 2010,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "CHO",
+    "year": 2010,
+    "petId": 4,
+    "count": 30
+  },
+  {
+    "departmentId": "CHO",
+    "year": 2010,
+    "petId": 5,
+    "count": 10
+  },
+  {
+    "departmentId": "CHO",
+    "year": 2015,
+    "petId": 1,
+    "count": 144
+  },
+  {
+    "departmentId": "CHO",
+    "year": 2015,
+    "petId": 2,
+    "count": 86
+  },
+  {
+    "departmentId": "CHO",
+    "year": 2015,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "CHO",
+    "year": 2015,
+    "petId": 4,
+    "count": 38
+  },
+  {
+    "departmentId": "CHO",
+    "year": 2015,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "CHO",
+    "year": 2020,
+    "petId": 1,
+    "count": 154
+  },
+  {
+    "departmentId": "CHO",
+    "year": 2020,
+    "petId": 2,
+    "count": 126
+  },
+  {
+    "departmentId": "CHO",
+    "year": 2020,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "CHO",
+    "year": 2020,
+    "petId": 4,
+    "count": 28
+  },
+  {
+    "departmentId": "CHO",
+    "year": 2020,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "CHO",
+    "year": 2025,
+    "petId": 1,
+    "count": 155
+  },
+  {
+    "departmentId": "CHO",
+    "year": 2025,
+    "petId": 2,
+    "count": 99
+  },
+  {
+    "departmentId": "CHO",
+    "year": 2025,
+    "petId": 3,
+    "count": 5
+  },
+  {
+    "departmentId": "CHO",
+    "year": 2025,
+    "petId": 4,
+    "count": 39
+  },
+  {
+    "departmentId": "CHO",
+    "year": 2025,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "COR",
+    "year": 2000,
+    "petId": 1,
+    "count": 145
+  },
+  {
+    "departmentId": "COR",
+    "year": 2000,
+    "petId": 2,
+    "count": 191
+  },
+  {
+    "departmentId": "COR",
+    "year": 2000,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "COR",
+    "year": 2000,
+    "petId": 4,
+    "count": 41
+  },
+  {
+    "departmentId": "COR",
+    "year": 2000,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "COR",
+    "year": 2005,
+    "petId": 1,
+    "count": 186
+  },
+  {
+    "departmentId": "COR",
+    "year": 2005,
+    "petId": 2,
+    "count": 74
+  },
+  {
+    "departmentId": "COR",
+    "year": 2005,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "COR",
+    "year": 2005,
+    "petId": 4,
+    "count": 28
+  },
+  {
+    "departmentId": "COR",
+    "year": 2005,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "COR",
+    "year": 2010,
+    "petId": 1,
+    "count": 134
+  },
+  {
+    "departmentId": "COR",
+    "year": 2010,
+    "petId": 2,
+    "count": 164
+  },
+  {
+    "departmentId": "COR",
+    "year": 2010,
+    "petId": 3,
+    "count": 10
+  },
+  {
+    "departmentId": "COR",
+    "year": 2010,
+    "petId": 4,
+    "count": 13
+  },
+  {
+    "departmentId": "COR",
+    "year": 2010,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "COR",
+    "year": 2015,
+    "petId": 1,
+    "count": 80
+  },
+  {
+    "departmentId": "COR",
+    "year": 2015,
+    "petId": 2,
+    "count": 111
+  },
+  {
+    "departmentId": "COR",
+    "year": 2015,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "COR",
+    "year": 2015,
+    "petId": 4,
+    "count": 29
+  },
+  {
+    "departmentId": "COR",
+    "year": 2015,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "COR",
+    "year": 2020,
+    "petId": 1,
+    "count": 140
+  },
+  {
+    "departmentId": "COR",
+    "year": 2020,
+    "petId": 2,
+    "count": 145
+  },
+  {
+    "departmentId": "COR",
+    "year": 2020,
+    "petId": 3,
+    "count": 5
+  },
+  {
+    "departmentId": "COR",
+    "year": 2020,
+    "petId": 4,
+    "count": 46
+  },
+  {
+    "departmentId": "COR",
+    "year": 2020,
+    "petId": 5,
+    "count": 10
+  },
+  {
+    "departmentId": "COR",
+    "year": 2025,
+    "petId": 1,
+    "count": 156
+  },
+  {
+    "departmentId": "COR",
+    "year": 2025,
+    "petId": 2,
+    "count": 105
+  },
+  {
+    "departmentId": "COR",
+    "year": 2025,
+    "petId": 3,
+    "count": 5
+  },
+  {
+    "departmentId": "COR",
+    "year": 2025,
+    "petId": 4,
+    "count": 26
+  },
+  {
+    "departmentId": "COR",
+    "year": 2025,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "CUN",
+    "year": 2000,
+    "petId": 1,
+    "count": 197
+  },
+  {
+    "departmentId": "CUN",
+    "year": 2000,
+    "petId": 2,
+    "count": 51
+  },
+  {
+    "departmentId": "CUN",
+    "year": 2000,
+    "petId": 3,
+    "count": 10
+  },
+  {
+    "departmentId": "CUN",
+    "year": 2000,
+    "petId": 4,
+    "count": 11
+  },
+  {
+    "departmentId": "CUN",
+    "year": 2000,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "CUN",
+    "year": 2005,
+    "petId": 1,
+    "count": 75
+  },
+  {
+    "departmentId": "CUN",
+    "year": 2005,
+    "petId": 2,
+    "count": 160
+  },
+  {
+    "departmentId": "CUN",
+    "year": 2005,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "CUN",
+    "year": 2005,
+    "petId": 4,
+    "count": 15
+  },
+  {
+    "departmentId": "CUN",
+    "year": 2005,
+    "petId": 5,
+    "count": 5
+  },
+  {
+    "departmentId": "CUN",
+    "year": 2010,
+    "petId": 1,
+    "count": 91
+  },
+  {
+    "departmentId": "CUN",
+    "year": 2010,
+    "petId": 2,
+    "count": 54
+  },
+  {
+    "departmentId": "CUN",
+    "year": 2010,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "CUN",
+    "year": 2010,
+    "petId": 4,
+    "count": 43
+  },
+  {
+    "departmentId": "CUN",
+    "year": 2010,
+    "petId": 5,
+    "count": 5
+  },
+  {
+    "departmentId": "CUN",
+    "year": 2015,
+    "petId": 1,
+    "count": 96
+  },
+  {
+    "departmentId": "CUN",
+    "year": 2015,
+    "petId": 2,
+    "count": 196
+  },
+  {
+    "departmentId": "CUN",
+    "year": 2015,
+    "petId": 3,
+    "count": 10
+  },
+  {
+    "departmentId": "CUN",
+    "year": 2015,
+    "petId": 4,
+    "count": 23
+  },
+  {
+    "departmentId": "CUN",
+    "year": 2015,
+    "petId": 5,
+    "count": 10
+  },
+  {
+    "departmentId": "CUN",
+    "year": 2020,
+    "petId": 1,
+    "count": 145
+  },
+  {
+    "departmentId": "CUN",
+    "year": 2020,
+    "petId": 2,
+    "count": 58
+  },
+  {
+    "departmentId": "CUN",
+    "year": 2020,
+    "petId": 3,
+    "count": 10
+  },
+  {
+    "departmentId": "CUN",
+    "year": 2020,
+    "petId": 4,
+    "count": 16
+  },
+  {
+    "departmentId": "CUN",
+    "year": 2020,
+    "petId": 5,
+    "count": 10
+  },
+  {
+    "departmentId": "CUN",
+    "year": 2025,
+    "petId": 1,
+    "count": 119
+  },
+  {
+    "departmentId": "CUN",
+    "year": 2025,
+    "petId": 2,
+    "count": 112
+  },
+  {
+    "departmentId": "CUN",
+    "year": 2025,
+    "petId": 3,
+    "count": 5
+  },
+  {
+    "departmentId": "CUN",
+    "year": 2025,
+    "petId": 4,
+    "count": 41
+  },
+  {
+    "departmentId": "CUN",
+    "year": 2025,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "GUA",
+    "year": 2000,
+    "petId": 1,
+    "count": 127
+  },
+  {
+    "departmentId": "GUA",
+    "year": 2000,
+    "petId": 2,
+    "count": 70
+  },
+  {
+    "departmentId": "GUA",
+    "year": 2000,
+    "petId": 3,
+    "count": 5
+  },
+  {
+    "departmentId": "GUA",
+    "year": 2000,
+    "petId": 4,
+    "count": 36
+  },
+  {
+    "departmentId": "GUA",
+    "year": 2000,
+    "petId": 5,
+    "count": 10
+  },
+  {
+    "departmentId": "GUA",
+    "year": 2005,
+    "petId": 1,
+    "count": 102
+  },
+  {
+    "departmentId": "GUA",
+    "year": 2005,
+    "petId": 2,
+    "count": 176
+  },
+  {
+    "departmentId": "GUA",
+    "year": 2005,
+    "petId": 3,
+    "count": 5
+  },
+  {
+    "departmentId": "GUA",
+    "year": 2005,
+    "petId": 4,
+    "count": 35
+  },
+  {
+    "departmentId": "GUA",
+    "year": 2005,
+    "petId": 5,
+    "count": 5
+  },
+  {
+    "departmentId": "GUA",
+    "year": 2010,
+    "petId": 1,
+    "count": 71
+  },
+  {
+    "departmentId": "GUA",
+    "year": 2010,
+    "petId": 2,
+    "count": 115
+  },
+  {
+    "departmentId": "GUA",
+    "year": 2010,
+    "petId": 3,
+    "count": 10
+  },
+  {
+    "departmentId": "GUA",
+    "year": 2010,
+    "petId": 4,
+    "count": 12
+  },
+  {
+    "departmentId": "GUA",
+    "year": 2010,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "GUA",
+    "year": 2015,
+    "petId": 1,
+    "count": 59
+  },
+  {
+    "departmentId": "GUA",
+    "year": 2015,
+    "petId": 2,
+    "count": 186
+  },
+  {
+    "departmentId": "GUA",
+    "year": 2015,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "GUA",
+    "year": 2015,
+    "petId": 4,
+    "count": 42
+  },
+  {
+    "departmentId": "GUA",
+    "year": 2015,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "GUA",
+    "year": 2020,
+    "petId": 1,
+    "count": 128
+  },
+  {
+    "departmentId": "GUA",
+    "year": 2020,
+    "petId": 2,
+    "count": 155
+  },
+  {
+    "departmentId": "GUA",
+    "year": 2020,
+    "petId": 3,
+    "count": 5
+  },
+  {
+    "departmentId": "GUA",
+    "year": 2020,
+    "petId": 4,
+    "count": 12
+  },
+  {
+    "departmentId": "GUA",
+    "year": 2020,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "GUA",
+    "year": 2025,
+    "petId": 1,
+    "count": 116
+  },
+  {
+    "departmentId": "GUA",
+    "year": 2025,
+    "petId": 2,
+    "count": 146
+  },
+  {
+    "departmentId": "GUA",
+    "year": 2025,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "GUA",
+    "year": 2025,
+    "petId": 4,
+    "count": 26
+  },
+  {
+    "departmentId": "GUA",
+    "year": 2025,
+    "petId": 5,
+    "count": 10
+  },
+  {
+    "departmentId": "GUV",
+    "year": 2000,
+    "petId": 1,
+    "count": 65
+  },
+  {
+    "departmentId": "GUV",
+    "year": 2000,
+    "petId": 2,
+    "count": 164
+  },
+  {
+    "departmentId": "GUV",
+    "year": 2000,
+    "petId": 3,
+    "count": 5
+  },
+  {
+    "departmentId": "GUV",
+    "year": 2000,
+    "petId": 4,
+    "count": 38
+  },
+  {
+    "departmentId": "GUV",
+    "year": 2000,
+    "petId": 5,
+    "count": 5
+  },
+  {
+    "departmentId": "GUV",
+    "year": 2005,
+    "petId": 1,
+    "count": 134
+  },
+  {
+    "departmentId": "GUV",
+    "year": 2005,
+    "petId": 2,
+    "count": 154
+  },
+  {
+    "departmentId": "GUV",
+    "year": 2005,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "GUV",
+    "year": 2005,
+    "petId": 4,
+    "count": 39
+  },
+  {
+    "departmentId": "GUV",
+    "year": 2005,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "GUV",
+    "year": 2010,
+    "petId": 1,
+    "count": 116
+  },
+  {
+    "departmentId": "GUV",
+    "year": 2010,
+    "petId": 2,
+    "count": 78
+  },
+  {
+    "departmentId": "GUV",
+    "year": 2010,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "GUV",
+    "year": 2010,
+    "petId": 4,
+    "count": 28
+  },
+  {
+    "departmentId": "GUV",
+    "year": 2010,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "GUV",
+    "year": 2015,
+    "petId": 1,
+    "count": 93
+  },
+  {
+    "departmentId": "GUV",
+    "year": 2015,
+    "petId": 2,
+    "count": 124
+  },
+  {
+    "departmentId": "GUV",
+    "year": 2015,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "GUV",
+    "year": 2015,
+    "petId": 4,
+    "count": 40
+  },
+  {
+    "departmentId": "GUV",
+    "year": 2015,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "GUV",
+    "year": 2020,
+    "petId": 1,
+    "count": 169
+  },
+  {
+    "departmentId": "GUV",
+    "year": 2020,
+    "petId": 2,
+    "count": 87
+  },
+  {
+    "departmentId": "GUV",
+    "year": 2020,
+    "petId": 3,
+    "count": 10
+  },
+  {
+    "departmentId": "GUV",
+    "year": 2020,
+    "petId": 4,
+    "count": 41
+  },
+  {
+    "departmentId": "GUV",
+    "year": 2020,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "GUV",
+    "year": 2025,
+    "petId": 1,
+    "count": 187
+  },
+  {
+    "departmentId": "GUV",
+    "year": 2025,
+    "petId": 2,
+    "count": 128
+  },
+  {
+    "departmentId": "GUV",
+    "year": 2025,
+    "petId": 3,
+    "count": 10
+  },
+  {
+    "departmentId": "GUV",
+    "year": 2025,
+    "petId": 4,
+    "count": 46
+  },
+  {
+    "departmentId": "GUV",
+    "year": 2025,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "HUI",
+    "year": 2000,
+    "petId": 1,
+    "count": 150
+  },
+  {
+    "departmentId": "HUI",
+    "year": 2000,
+    "petId": 2,
+    "count": 165
+  },
+  {
+    "departmentId": "HUI",
+    "year": 2000,
+    "petId": 3,
+    "count": 5
+  },
+  {
+    "departmentId": "HUI",
+    "year": 2000,
+    "petId": 4,
+    "count": 20
+  },
+  {
+    "departmentId": "HUI",
+    "year": 2000,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "HUI",
+    "year": 2005,
+    "petId": 1,
+    "count": 185
+  },
+  {
+    "departmentId": "HUI",
+    "year": 2005,
+    "petId": 2,
+    "count": 118
+  },
+  {
+    "departmentId": "HUI",
+    "year": 2005,
+    "petId": 3,
+    "count": 10
+  },
+  {
+    "departmentId": "HUI",
+    "year": 2005,
+    "petId": 4,
+    "count": 38
+  },
+  {
+    "departmentId": "HUI",
+    "year": 2005,
+    "petId": 5,
+    "count": 10
+  },
+  {
+    "departmentId": "HUI",
+    "year": 2010,
+    "petId": 1,
+    "count": 96
+  },
+  {
+    "departmentId": "HUI",
+    "year": 2010,
+    "petId": 2,
+    "count": 126
+  },
+  {
+    "departmentId": "HUI",
+    "year": 2010,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "HUI",
+    "year": 2010,
+    "petId": 4,
+    "count": 23
+  },
+  {
+    "departmentId": "HUI",
+    "year": 2010,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "HUI",
+    "year": 2015,
+    "petId": 1,
+    "count": 120
+  },
+  {
+    "departmentId": "HUI",
+    "year": 2015,
+    "petId": 2,
+    "count": 163
+  },
+  {
+    "departmentId": "HUI",
+    "year": 2015,
+    "petId": 3,
+    "count": 5
+  },
+  {
+    "departmentId": "HUI",
+    "year": 2015,
+    "petId": 4,
+    "count": 28
+  },
+  {
+    "departmentId": "HUI",
+    "year": 2015,
+    "petId": 5,
+    "count": 5
+  },
+  {
+    "departmentId": "HUI",
+    "year": 2020,
+    "petId": 1,
+    "count": 67
+  },
+  {
+    "departmentId": "HUI",
+    "year": 2020,
+    "petId": 2,
+    "count": 179
+  },
+  {
+    "departmentId": "HUI",
+    "year": 2020,
+    "petId": 3,
+    "count": 5
+  },
+  {
+    "departmentId": "HUI",
+    "year": 2020,
+    "petId": 4,
+    "count": 25
+  },
+  {
+    "departmentId": "HUI",
+    "year": 2020,
+    "petId": 5,
+    "count": 10
+  },
+  {
+    "departmentId": "HUI",
+    "year": 2025,
+    "petId": 1,
+    "count": 147
+  },
+  {
+    "departmentId": "HUI",
+    "year": 2025,
+    "petId": 2,
+    "count": 73
+  },
+  {
+    "departmentId": "HUI",
+    "year": 2025,
+    "petId": 3,
+    "count": 5
+  },
+  {
+    "departmentId": "HUI",
+    "year": 2025,
+    "petId": 4,
+    "count": 29
+  },
+  {
+    "departmentId": "HUI",
+    "year": 2025,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "MAG",
+    "year": 2000,
+    "petId": 1,
+    "count": 78
+  },
+  {
+    "departmentId": "MAG",
+    "year": 2000,
+    "petId": 2,
+    "count": 76
+  },
+  {
+    "departmentId": "MAG",
+    "year": 2000,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "MAG",
+    "year": 2000,
+    "petId": 4,
+    "count": 18
+  },
+  {
+    "departmentId": "MAG",
+    "year": 2000,
+    "petId": 5,
+    "count": 10
+  },
+  {
+    "departmentId": "MAG",
+    "year": 2005,
+    "petId": 1,
+    "count": 107
+  },
+  {
+    "departmentId": "MAG",
+    "year": 2005,
+    "petId": 2,
+    "count": 140
+  },
+  {
+    "departmentId": "MAG",
+    "year": 2005,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "MAG",
+    "year": 2005,
+    "petId": 4,
+    "count": 38
+  },
+  {
+    "departmentId": "MAG",
+    "year": 2005,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "MAG",
+    "year": 2010,
+    "petId": 1,
+    "count": 54
+  },
+  {
+    "departmentId": "MAG",
+    "year": 2010,
+    "petId": 2,
+    "count": 154
+  },
+  {
+    "departmentId": "MAG",
+    "year": 2010,
+    "petId": 3,
+    "count": 5
+  },
+  {
+    "departmentId": "MAG",
+    "year": 2010,
+    "petId": 4,
+    "count": 42
+  },
+  {
+    "departmentId": "MAG",
+    "year": 2010,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "MAG",
+    "year": 2015,
+    "petId": 1,
+    "count": 115
+  },
+  {
+    "departmentId": "MAG",
+    "year": 2015,
+    "petId": 2,
+    "count": 69
+  },
+  {
+    "departmentId": "MAG",
+    "year": 2015,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "MAG",
+    "year": 2015,
+    "petId": 4,
+    "count": 15
+  },
+  {
+    "departmentId": "MAG",
+    "year": 2015,
+    "petId": 5,
+    "count": 10
+  },
+  {
+    "departmentId": "MAG",
+    "year": 2020,
+    "petId": 1,
+    "count": 154
+  },
+  {
+    "departmentId": "MAG",
+    "year": 2020,
+    "petId": 2,
+    "count": 55
+  },
+  {
+    "departmentId": "MAG",
+    "year": 2020,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "MAG",
+    "year": 2020,
+    "petId": 4,
+    "count": 42
+  },
+  {
+    "departmentId": "MAG",
+    "year": 2020,
+    "petId": 5,
+    "count": 5
+  },
+  {
+    "departmentId": "MAG",
+    "year": 2025,
+    "petId": 1,
+    "count": 106
+  },
+  {
+    "departmentId": "MAG",
+    "year": 2025,
+    "petId": 2,
+    "count": 181
+  },
+  {
+    "departmentId": "MAG",
+    "year": 2025,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "MAG",
+    "year": 2025,
+    "petId": 4,
+    "count": 29
+  },
+  {
+    "departmentId": "MAG",
+    "year": 2025,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "MET",
+    "year": 2000,
+    "petId": 1,
+    "count": 128
+  },
+  {
+    "departmentId": "MET",
+    "year": 2000,
+    "petId": 2,
+    "count": 180
+  },
+  {
+    "departmentId": "MET",
+    "year": 2000,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "MET",
+    "year": 2000,
+    "petId": 4,
+    "count": 49
+  },
+  {
+    "departmentId": "MET",
+    "year": 2000,
+    "petId": 5,
+    "count": 10
+  },
+  {
+    "departmentId": "MET",
+    "year": 2005,
+    "petId": 1,
+    "count": 67
+  },
+  {
+    "departmentId": "MET",
+    "year": 2005,
+    "petId": 2,
+    "count": 194
+  },
+  {
+    "departmentId": "MET",
+    "year": 2005,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "MET",
+    "year": 2005,
+    "petId": 4,
+    "count": 11
+  },
+  {
+    "departmentId": "MET",
+    "year": 2005,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "MET",
+    "year": 2010,
+    "petId": 1,
+    "count": 172
+  },
+  {
+    "departmentId": "MET",
+    "year": 2010,
+    "petId": 2,
+    "count": 151
+  },
+  {
+    "departmentId": "MET",
+    "year": 2010,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "MET",
+    "year": 2010,
+    "petId": 4,
+    "count": 14
+  },
+  {
+    "departmentId": "MET",
+    "year": 2010,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "MET",
+    "year": 2015,
+    "petId": 1,
+    "count": 184
+  },
+  {
+    "departmentId": "MET",
+    "year": 2015,
+    "petId": 2,
+    "count": 173
+  },
+  {
+    "departmentId": "MET",
+    "year": 2015,
+    "petId": 3,
+    "count": 10
+  },
+  {
+    "departmentId": "MET",
+    "year": 2015,
+    "petId": 4,
+    "count": 50
+  },
+  {
+    "departmentId": "MET",
+    "year": 2015,
+    "petId": 5,
+    "count": 10
+  },
+  {
+    "departmentId": "MET",
+    "year": 2020,
+    "petId": 1,
+    "count": 83
+  },
+  {
+    "departmentId": "MET",
+    "year": 2020,
+    "petId": 2,
+    "count": 113
+  },
+  {
+    "departmentId": "MET",
+    "year": 2020,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "MET",
+    "year": 2020,
+    "petId": 4,
+    "count": 19
+  },
+  {
+    "departmentId": "MET",
+    "year": 2020,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "MET",
+    "year": 2025,
+    "petId": 1,
+    "count": 50
+  },
+  {
+    "departmentId": "MET",
+    "year": 2025,
+    "petId": 2,
+    "count": 108
+  },
+  {
+    "departmentId": "MET",
+    "year": 2025,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "MET",
+    "year": 2025,
+    "petId": 4,
+    "count": 21
+  },
+  {
+    "departmentId": "MET",
+    "year": 2025,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "NAR",
+    "year": 2000,
+    "petId": 1,
+    "count": 170
+  },
+  {
+    "departmentId": "NAR",
+    "year": 2000,
+    "petId": 2,
+    "count": 124
+  },
+  {
+    "departmentId": "NAR",
+    "year": 2000,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "NAR",
+    "year": 2000,
+    "petId": 4,
+    "count": 40
+  },
+  {
+    "departmentId": "NAR",
+    "year": 2000,
+    "petId": 5,
+    "count": 2
+  },
+  {
+    "departmentId": "NAR",
+    "year": 2005,
+    "petId": 1,
+    "count": 172
+  },
+  {
+    "departmentId": "NAR",
+    "year": 2005,
+    "petId": 2,
+    "count": 86
+  },
+  {
+    "departmentId": "NAR",
+    "year": 2005,
+    "petId": 3,
+    "count": 10
+  },
+  {
+    "departmentId": "NAR",
+    "year": 2005,
+    "petId": 4,
+    "count": 32
+  },
+  {
+    "departmentId": "NAR",
+    "year": 2005,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "NAR",
+    "year": 2010,
+    "petId": 1,
+    "count": 98
+  },
+  {
+    "departmentId": "NAR",
+    "year": 2010,
+    "petId": 2,
+    "count": 183
+  },
+  {
+    "departmentId": "NAR",
+    "year": 2010,
+    "petId": 3,
+    "count": 5
+  },
+  {
+    "departmentId": "NAR",
+    "year": 2010,
+    "petId": 4,
+    "count": 41
+  },
+  {
+    "departmentId": "NAR",
+    "year": 2010,
+    "petId": 5,
+    "count": 10
+  },
+  {
+    "departmentId": "NAR",
+    "year": 2015,
+    "petId": 1,
+    "count": 179
+  },
+  {
+    "departmentId": "NAR",
+    "year": 2015,
+    "petId": 2,
+    "count": 188
+  },
+  {
+    "departmentId": "NAR",
+    "year": 2015,
+    "petId": 3,
+    "count": 5
+  },
+  {
+    "departmentId": "NAR",
+    "year": 2015,
+    "petId": 4,
+    "count": 40
+  },
+  {
+    "departmentId": "NAR",
+    "year": 2015,
+    "petId": 5,
+    "count": 10
+  },
+  {
+    "departmentId": "NAR",
+    "year": 2020,
+    "petId": 1,
+    "count": 77
+  },
+  {
+    "departmentId": "NAR",
+    "year": 2020,
+    "petId": 2,
+    "count": 153
+  },
+  {
+    "departmentId": "NAR",
+    "year": 2020,
+    "petId": 3,
+    "count": 10
+  },
+  {
+    "departmentId": "NAR",
+    "year": 2020,
+    "petId": 4,
+    "count": 23
+  },
+  {
+    "departmentId": "NAR",
+    "year": 2020,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "NAR",
+    "year": 2025,
+    "petId": 1,
+    "count": 173
+  },
+  {
+    "departmentId": "NAR",
+    "year": 2025,
+    "petId": 2,
+    "count": 135
+  },
+  {
+    "departmentId": "NAR",
+    "year": 2025,
+    "petId": 3,
+    "count": 5
+  },
+  {
+    "departmentId": "NAR",
+    "year": 2025,
+    "petId": 4,
+    "count": 29
+  },
+  {
+    "departmentId": "NAR",
+    "year": 2025,
+    "petId": 5,
+    "count": 10
+  },
+  {
+    "departmentId": "NSA",
+    "year": 2000,
+    "petId": 1,
+    "count": 95
+  },
+  {
+    "departmentId": "NSA",
+    "year": 2000,
+    "petId": 2,
+    "count": 154
+  },
+  {
+    "departmentId": "NSA",
+    "year": 2000,
+    "petId": 3,
+    "count": 5
+  },
+  {
+    "departmentId": "NSA",
+    "year": 2000,
+    "petId": 4,
+    "count": 37
+  },
+  {
+    "departmentId": "NSA",
+    "year": 2000,
+    "petId": 5,
+    "count": 10
+  },
+  {
+    "departmentId": "NSA",
+    "year": 2005,
+    "petId": 1,
+    "count": 73
+  },
+  {
+    "departmentId": "NSA",
+    "year": 2005,
+    "petId": 2,
+    "count": 148
+  },
+  {
+    "departmentId": "NSA",
+    "year": 2005,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "NSA",
+    "year": 2005,
+    "petId": 4,
+    "count": 21
+  },
+  {
+    "departmentId": "NSA",
+    "year": 2005,
+    "petId": 5,
+    "count": 5
+  },
+  {
+    "departmentId": "NSA",
+    "year": 2010,
+    "petId": 1,
+    "count": 71
+  },
+  {
+    "departmentId": "NSA",
+    "year": 2010,
+    "petId": 2,
+    "count": 166
+  },
+  {
+    "departmentId": "NSA",
+    "year": 2010,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "NSA",
+    "year": 2010,
+    "petId": 4,
+    "count": 45
+  },
+  {
+    "departmentId": "NSA",
+    "year": 2010,
+    "petId": 5,
+    "count": 10
+  },
+  {
+    "departmentId": "NSA",
+    "year": 2015,
+    "petId": 1,
+    "count": 174
+  },
+  {
+    "departmentId": "NSA",
+    "year": 2015,
+    "petId": 2,
+    "count": 152
+  },
+  {
+    "departmentId": "NSA",
+    "year": 2015,
+    "petId": 3,
+    "count": 5
+  },
+  {
+    "departmentId": "NSA",
+    "year": 2015,
+    "petId": 4,
+    "count": 30
+  },
+  {
+    "departmentId": "NSA",
+    "year": 2015,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "NSA",
+    "year": 2020,
+    "petId": 1,
+    "count": 134
+  },
+  {
+    "departmentId": "NSA",
+    "year": 2020,
+    "petId": 2,
+    "count": 153
+  },
+  {
+    "departmentId": "NSA",
+    "year": 2020,
+    "petId": 3,
+    "count": 5
+  },
+  {
+    "departmentId": "NSA",
+    "year": 2020,
+    "petId": 4,
+    "count": 17
+  },
+  {
+    "departmentId": "NSA",
+    "year": 2020,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "NSA",
+    "year": 2025,
+    "petId": 1,
+    "count": 136
+  },
+  {
+    "departmentId": "NSA",
+    "year": 2025,
+    "petId": 2,
+    "count": 161
+  },
+  {
+    "departmentId": "NSA",
+    "year": 2025,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "NSA",
+    "year": 2025,
+    "petId": 4,
+    "count": 39
+  },
+  {
+    "departmentId": "NSA",
+    "year": 2025,
+    "petId": 5,
+    "count": 10
+  },
+  {
+    "departmentId": "PUT",
+    "year": 2000,
+    "petId": 1,
+    "count": 58
+  },
+  {
+    "departmentId": "PUT",
+    "year": 2000,
+    "petId": 2,
+    "count": 83
+  },
+  {
+    "departmentId": "PUT",
+    "year": 2000,
+    "petId": 3,
+    "count": 5
+  },
+  {
+    "departmentId": "PUT",
+    "year": 2000,
+    "petId": 4,
+    "count": 22
+  },
+  {
+    "departmentId": "PUT",
+    "year": 2000,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "PUT",
+    "year": 2005,
+    "petId": 1,
+    "count": 175
+  },
+  {
+    "departmentId": "PUT",
+    "year": 2005,
+    "petId": 2,
+    "count": 190
+  },
+  {
+    "departmentId": "PUT",
+    "year": 2005,
+    "petId": 3,
+    "count": 10
+  },
+  {
+    "departmentId": "PUT",
+    "year": 2005,
+    "petId": 4,
+    "count": 10
+  },
+  {
+    "departmentId": "PUT",
+    "year": 2005,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "PUT",
+    "year": 2010,
+    "petId": 1,
+    "count": 105
+  },
+  {
+    "departmentId": "PUT",
+    "year": 2010,
+    "petId": 2,
+    "count": 61
+  },
+  {
+    "departmentId": "PUT",
+    "year": 2010,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "PUT",
+    "year": 2010,
+    "petId": 4,
+    "count": 29
+  },
+  {
+    "departmentId": "PUT",
+    "year": 2010,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "PUT",
+    "year": 2015,
+    "petId": 1,
+    "count": 58
+  },
+  {
+    "departmentId": "PUT",
+    "year": 2015,
+    "petId": 2,
+    "count": 137
+  },
+  {
+    "departmentId": "PUT",
+    "year": 2015,
+    "petId": 3,
+    "count": 5
+  },
+  {
+    "departmentId": "PUT",
+    "year": 2015,
+    "petId": 4,
+    "count": 39
+  },
+  {
+    "departmentId": "PUT",
+    "year": 2015,
+    "petId": 5,
+    "count": 5
+  },
+  {
+    "departmentId": "PUT",
+    "year": 2020,
+    "petId": 1,
+    "count": 121
+  },
+  {
+    "departmentId": "PUT",
+    "year": 2020,
+    "petId": 2,
+    "count": 62
+  },
+  {
+    "departmentId": "PUT",
+    "year": 2020,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "PUT",
+    "year": 2020,
+    "petId": 4,
+    "count": 22
+  },
+  {
+    "departmentId": "PUT",
+    "year": 2020,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "PUT",
+    "year": 2025,
+    "petId": 1,
+    "count": 143
+  },
+  {
+    "departmentId": "PUT",
+    "year": 2025,
+    "petId": 2,
+    "count": 72
+  },
+  {
+    "departmentId": "PUT",
+    "year": 2025,
+    "petId": 3,
+    "count": 10
+  },
+  {
+    "departmentId": "PUT",
+    "year": 2025,
+    "petId": 4,
+    "count": 48
+  },
+  {
+    "departmentId": "PUT",
+    "year": 2025,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "QUI",
+    "year": 2000,
+    "petId": 1,
+    "count": 183
+  },
+  {
+    "departmentId": "QUI",
+    "year": 2000,
+    "petId": 2,
+    "count": 119
+  },
+  {
+    "departmentId": "QUI",
+    "year": 2000,
+    "petId": 3,
+    "count": 10
+  },
+  {
+    "departmentId": "QUI",
+    "year": 2000,
+    "petId": 4,
+    "count": 11
+  },
+  {
+    "departmentId": "QUI",
+    "year": 2000,
+    "petId": 5,
+    "count": 10
+  },
+  {
+    "departmentId": "QUI",
+    "year": 2005,
+    "petId": 1,
+    "count": 113
+  },
+  {
+    "departmentId": "QUI",
+    "year": 2005,
+    "petId": 2,
+    "count": 81
+  },
+  {
+    "departmentId": "QUI",
+    "year": 2005,
+    "petId": 3,
+    "count": 10
+  },
+  {
+    "departmentId": "QUI",
+    "year": 2005,
+    "petId": 4,
+    "count": 41
+  },
+  {
+    "departmentId": "QUI",
+    "year": 2005,
+    "petId": 5,
+    "count": 10
+  },
+  {
+    "departmentId": "QUI",
+    "year": 2010,
+    "petId": 1,
+    "count": 188
+  },
+  {
+    "departmentId": "QUI",
+    "year": 2010,
+    "petId": 2,
+    "count": 87
+  },
+  {
+    "departmentId": "QUI",
+    "year": 2010,
+    "petId": 3,
+    "count": 10
+  },
+  {
+    "departmentId": "QUI",
+    "year": 2010,
+    "petId": 4,
+    "count": 24
+  },
+  {
+    "departmentId": "QUI",
+    "year": 2010,
+    "petId": 5,
+    "count": 5
+  },
+  {
+    "departmentId": "QUI",
+    "year": 2015,
+    "petId": 1,
+    "count": 145
+  },
+  {
+    "departmentId": "QUI",
+    "year": 2015,
+    "petId": 2,
+    "count": 130
+  },
+  {
+    "departmentId": "QUI",
+    "year": 2015,
+    "petId": 3,
+    "count": 5
+  },
+  {
+    "departmentId": "QUI",
+    "year": 2015,
+    "petId": 4,
+    "count": 48
+  },
+  {
+    "departmentId": "QUI",
+    "year": 2015,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "QUI",
+    "year": 2020,
+    "petId": 1,
+    "count": 59
+  },
+  {
+    "departmentId": "QUI",
+    "year": 2020,
+    "petId": 2,
+    "count": 165
+  },
+  {
+    "departmentId": "QUI",
+    "year": 2020,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "QUI",
+    "year": 2020,
+    "petId": 4,
+    "count": 15
+  },
+  {
+    "departmentId": "QUI",
+    "year": 2020,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "QUI",
+    "year": 2025,
+    "petId": 1,
+    "count": 187
+  },
+  {
+    "departmentId": "QUI",
+    "year": 2025,
+    "petId": 2,
+    "count": 157
+  },
+  {
+    "departmentId": "QUI",
+    "year": 2025,
+    "petId": 3,
+    "count": 10
+  },
+  {
+    "departmentId": "QUI",
+    "year": 2025,
+    "petId": 4,
+    "count": 14
+  },
+  {
+    "departmentId": "QUI",
+    "year": 2025,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "RIS",
+    "year": 2000,
+    "petId": 1,
+    "count": 197
+  },
+  {
+    "departmentId": "RIS",
+    "year": 2000,
+    "petId": 2,
+    "count": 90
+  },
+  {
+    "departmentId": "RIS",
+    "year": 2000,
+    "petId": 3,
+    "count": 10
+  },
+  {
+    "departmentId": "RIS",
+    "year": 2000,
+    "petId": 4,
+    "count": 13
+  },
+  {
+    "departmentId": "RIS",
+    "year": 2000,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "RIS",
+    "year": 2005,
+    "petId": 1,
+    "count": 156
+  },
+  {
+    "departmentId": "RIS",
+    "year": 2005,
+    "petId": 2,
+    "count": 72
+  },
+  {
+    "departmentId": "RIS",
+    "year": 2005,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "RIS",
+    "year": 2005,
+    "petId": 4,
+    "count": 43
+  },
+  {
+    "departmentId": "RIS",
+    "year": 2005,
+    "petId": 5,
+    "count": 10
+  },
+  {
+    "departmentId": "RIS",
+    "year": 2010,
+    "petId": 1,
+    "count": 190
+  },
+  {
+    "departmentId": "RIS",
+    "year": 2010,
+    "petId": 2,
+    "count": 115
+  },
+  {
+    "departmentId": "RIS",
+    "year": 2010,
+    "petId": 3,
+    "count": 10
+  },
+  {
+    "departmentId": "RIS",
+    "year": 2010,
+    "petId": 4,
+    "count": 34
+  },
+  {
+    "departmentId": "RIS",
+    "year": 2010,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "RIS",
+    "year": 2015,
+    "petId": 1,
+    "count": 110
+  },
+  {
+    "departmentId": "RIS",
+    "year": 2015,
+    "petId": 2,
+    "count": 72
+  },
+  {
+    "departmentId": "RIS",
+    "year": 2015,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "RIS",
+    "year": 2015,
+    "petId": 4,
+    "count": 34
+  },
+  {
+    "departmentId": "RIS",
+    "year": 2015,
+    "petId": 5,
+    "count": 10
+  },
+  {
+    "departmentId": "RIS",
+    "year": 2020,
+    "petId": 1,
+    "count": 168
+  },
+  {
+    "departmentId": "RIS",
+    "year": 2020,
+    "petId": 2,
+    "count": 102
+  },
+  {
+    "departmentId": "RIS",
+    "year": 2020,
+    "petId": 3,
+    "count": 10
+  },
+  {
+    "departmentId": "RIS",
+    "year": 2020,
+    "petId": 4,
+    "count": 18
+  },
+  {
+    "departmentId": "RIS",
+    "year": 2020,
+    "petId": 5,
+    "count": 5
+  },
+  {
+    "departmentId": "RIS",
+    "year": 2025,
+    "petId": 1,
+    "count": 138
+  },
+  {
+    "departmentId": "RIS",
+    "year": 2025,
+    "petId": 2,
+    "count": 59
+  },
+  {
+    "departmentId": "RIS",
+    "year": 2025,
+    "petId": 3,
+    "count": 10
+  },
+  {
+    "departmentId": "RIS",
+    "year": 2025,
+    "petId": 4,
+    "count": 10
+  },
+  {
+    "departmentId": "RIS",
+    "year": 2025,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "SAP",
+    "year": 2000,
+    "petId": 1,
+    "count": 192
+  },
+  {
+    "departmentId": "SAP",
+    "year": 2000,
+    "petId": 2,
+    "count": 50
+  },
+  {
+    "departmentId": "SAP",
+    "year": 2000,
+    "petId": 3,
+    "count": 10
+  },
+  {
+    "departmentId": "SAP",
+    "year": 2000,
+    "petId": 4,
+    "count": 10
+  },
+  {
+    "departmentId": "SAP",
+    "year": 2000,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "SAP",
+    "year": 2005,
+    "petId": 1,
+    "count": 80
+  },
+  {
+    "departmentId": "SAP",
+    "year": 2005,
+    "petId": 2,
+    "count": 181
+  },
+  {
+    "departmentId": "SAP",
+    "year": 2005,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "SAP",
+    "year": 2005,
+    "petId": 4,
+    "count": 27
+  },
+  {
+    "departmentId": "SAP",
+    "year": 2005,
+    "petId": 5,
+    "count": 5
+  },
+  {
+    "departmentId": "SAP",
+    "year": 2010,
+    "petId": 1,
+    "count": 94
+  },
+  {
+    "departmentId": "SAP",
+    "year": 2010,
+    "petId": 2,
+    "count": 130
+  },
+  {
+    "departmentId": "SAP",
+    "year": 2010,
+    "petId": 3,
+    "count": 10
+  },
+  {
+    "departmentId": "SAP",
+    "year": 2010,
+    "petId": 4,
+    "count": 17
+  },
+  {
+    "departmentId": "SAP",
+    "year": 2010,
+    "petId": 5,
+    "count": 10
+  },
+  {
+    "departmentId": "SAP",
+    "year": 2015,
+    "petId": 1,
+    "count": 53
+  },
+  {
+    "departmentId": "SAP",
+    "year": 2015,
+    "petId": 2,
+    "count": 52
+  },
+  {
+    "departmentId": "SAP",
+    "year": 2015,
+    "petId": 3,
+    "count": 5
+  },
+  {
+    "departmentId": "SAP",
+    "year": 2015,
+    "petId": 4,
+    "count": 43
+  },
+  {
+    "departmentId": "SAP",
+    "year": 2015,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "SAP",
+    "year": 2020,
+    "petId": 1,
+    "count": 96
+  },
+  {
+    "departmentId": "SAP",
+    "year": 2020,
+    "petId": 2,
+    "count": 70
+  },
+  {
+    "departmentId": "SAP",
+    "year": 2020,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "SAP",
+    "year": 2020,
+    "petId": 4,
+    "count": 12
+  },
+  {
+    "departmentId": "SAP",
+    "year": 2020,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "SAP",
+    "year": 2025,
+    "petId": 1,
+    "count": 168
+  },
+  {
+    "departmentId": "SAP",
+    "year": 2025,
+    "petId": 2,
+    "count": 158
+  },
+  {
+    "departmentId": "SAP",
+    "year": 2025,
+    "petId": 3,
+    "count": 10
+  },
+  {
+    "departmentId": "SAP",
+    "year": 2025,
+    "petId": 4,
+    "count": 40
+  },
+  {
+    "departmentId": "SAP",
+    "year": 2025,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "SAN",
+    "year": 2000,
+    "petId": 1,
+    "count": 107
+  },
+  {
+    "departmentId": "SAN",
+    "year": 2000,
+    "petId": 2,
+    "count": 56
+  },
+  {
+    "departmentId": "SAN",
+    "year": 2000,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "SAN",
+    "year": 2000,
+    "petId": 4,
+    "count": 29
+  },
+  {
+    "departmentId": "SAN",
+    "year": 2000,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "SAN",
+    "year": 2005,
+    "petId": 1,
+    "count": 176
+  },
+  {
+    "departmentId": "SAN",
+    "year": 2005,
+    "petId": 2,
+    "count": 114
+  },
+  {
+    "departmentId": "SAN",
+    "year": 2005,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "SAN",
+    "year": 2005,
+    "petId": 4,
+    "count": 15
+  },
+  {
+    "departmentId": "SAN",
+    "year": 2005,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "SAN",
+    "year": 2010,
+    "petId": 1,
+    "count": 171
+  },
+  {
+    "departmentId": "SAN",
+    "year": 2010,
+    "petId": 2,
+    "count": 184
+  },
+  {
+    "departmentId": "SAN",
+    "year": 2010,
+    "petId": 3,
+    "count": 5
+  },
+  {
+    "departmentId": "SAN",
+    "year": 2010,
+    "petId": 4,
+    "count": 38
+  },
+  {
+    "departmentId": "SAN",
+    "year": 2010,
+    "petId": 5,
+    "count": 10
+  },
+  {
+    "departmentId": "SAN",
+    "year": 2015,
+    "petId": 1,
+    "count": 170
+  },
+  {
+    "departmentId": "SAN",
+    "year": 2015,
+    "petId": 2,
+    "count": 63
+  },
+  {
+    "departmentId": "SAN",
+    "year": 2015,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "SAN",
+    "year": 2015,
+    "petId": 4,
+    "count": 10
+  },
+  {
+    "departmentId": "SAN",
+    "year": 2015,
+    "petId": 5,
+    "count": 5
+  },
+  {
+    "departmentId": "SAN",
+    "year": 2020,
+    "petId": 1,
+    "count": 188
+  },
+  {
+    "departmentId": "SAN",
+    "year": 2020,
+    "petId": 2,
+    "count": 157
+  },
+  {
+    "departmentId": "SAN",
+    "year": 2020,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "SAN",
+    "year": 2020,
+    "petId": 4,
+    "count": 30
+  },
+  {
+    "departmentId": "SAN",
+    "year": 2020,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "SAN",
+    "year": 2025,
+    "petId": 1,
+    "count": 52
+  },
+  {
+    "departmentId": "SAN",
+    "year": 2025,
+    "petId": 2,
+    "count": 57
+  },
+  {
+    "departmentId": "SAN",
+    "year": 2025,
+    "petId": 3,
+    "count": 5
+  },
+  {
+    "departmentId": "SAN",
+    "year": 2025,
+    "petId": 4,
+    "count": 25
+  },
+  {
+    "departmentId": "SAN",
+    "year": 2025,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "SUC",
+    "year": 2000,
+    "petId": 1,
+    "count": 122
+  },
+  {
+    "departmentId": "SUC",
+    "year": 2000,
+    "petId": 2,
+    "count": 66
+  },
+  {
+    "departmentId": "SUC",
+    "year": 2000,
+    "petId": 3,
+    "count": 5
+  },
+  {
+    "departmentId": "SUC",
+    "year": 2000,
+    "petId": 4,
+    "count": 23
+  },
+  {
+    "departmentId": "SUC",
+    "year": 2000,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "SUC",
+    "year": 2005,
+    "petId": 1,
+    "count": 160
+  },
+  {
+    "departmentId": "SUC",
+    "year": 2005,
+    "petId": 2,
+    "count": 111
+  },
+  {
+    "departmentId": "SUC",
+    "year": 2005,
+    "petId": 3,
+    "count": 10
+  },
+  {
+    "departmentId": "SUC",
+    "year": 2005,
+    "petId": 4,
+    "count": 48
+  },
+  {
+    "departmentId": "SUC",
+    "year": 2005,
+    "petId": 5,
+    "count": 5
+  },
+  {
+    "departmentId": "SUC",
+    "year": 2010,
+    "petId": 1,
+    "count": 66
+  },
+  {
+    "departmentId": "SUC",
+    "year": 2010,
+    "petId": 2,
+    "count": 135
+  },
+  {
+    "departmentId": "SUC",
+    "year": 2010,
+    "petId": 3,
+    "count": 10
+  },
+  {
+    "departmentId": "SUC",
+    "year": 2010,
+    "petId": 4,
+    "count": 24
+  },
+  {
+    "departmentId": "SUC",
+    "year": 2010,
+    "petId": 5,
+    "count": 5
+  },
+  {
+    "departmentId": "SUC",
+    "year": 2015,
+    "petId": 1,
+    "count": 79
+  },
+  {
+    "departmentId": "SUC",
+    "year": 2015,
+    "petId": 2,
+    "count": 103
+  },
+  {
+    "departmentId": "SUC",
+    "year": 2015,
+    "petId": 3,
+    "count": 5
+  },
+  {
+    "departmentId": "SUC",
+    "year": 2015,
+    "petId": 4,
+    "count": 49
+  },
+  {
+    "departmentId": "SUC",
+    "year": 2015,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "SUC",
+    "year": 2020,
+    "petId": 1,
+    "count": 71
+  },
+  {
+    "departmentId": "SUC",
+    "year": 2020,
+    "petId": 2,
+    "count": 165
+  },
+  {
+    "departmentId": "SUC",
+    "year": 2020,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "SUC",
+    "year": 2020,
+    "petId": 4,
+    "count": 21
+  },
+  {
+    "departmentId": "SUC",
+    "year": 2020,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "SUC",
+    "year": 2025,
+    "petId": 1,
+    "count": 62
+  },
+  {
+    "departmentId": "SUC",
+    "year": 2025,
+    "petId": 2,
+    "count": 54
+  },
+  {
+    "departmentId": "SUC",
+    "year": 2025,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "SUC",
+    "year": 2025,
+    "petId": 4,
+    "count": 29
+  },
+  {
+    "departmentId": "SUC",
+    "year": 2025,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "TOL",
+    "year": 2000,
+    "petId": 1,
+    "count": 183
+  },
+  {
+    "departmentId": "TOL",
+    "year": 2000,
+    "petId": 2,
+    "count": 67
+  },
+  {
+    "departmentId": "TOL",
+    "year": 2000,
+    "petId": 3,
+    "count": 10
+  },
+  {
+    "departmentId": "TOL",
+    "year": 2000,
+    "petId": 4,
+    "count": 15
+  },
+  {
+    "departmentId": "TOL",
+    "year": 2000,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "TOL",
+    "year": 2005,
+    "petId": 1,
+    "count": 107
+  },
+  {
+    "departmentId": "TOL",
+    "year": 2005,
+    "petId": 2,
+    "count": 76
+  },
+  {
+    "departmentId": "TOL",
+    "year": 2005,
+    "petId": 3,
+    "count": 5
+  },
+  {
+    "departmentId": "TOL",
+    "year": 2005,
+    "petId": 4,
+    "count": 43
+  },
+  {
+    "departmentId": "TOL",
+    "year": 2005,
+    "petId": 5,
+    "count": 10
+  },
+  {
+    "departmentId": "TOL",
+    "year": 2010,
+    "petId": 1,
+    "count": 104
+  },
+  {
+    "departmentId": "TOL",
+    "year": 2010,
+    "petId": 2,
+    "count": 158
+  },
+  {
+    "departmentId": "TOL",
+    "year": 2010,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "TOL",
+    "year": 2010,
+    "petId": 4,
+    "count": 42
+  },
+  {
+    "departmentId": "TOL",
+    "year": 2010,
+    "petId": 5,
+    "count": 10
+  },
+  {
+    "departmentId": "TOL",
+    "year": 2015,
+    "petId": 1,
+    "count": 52
+  },
+  {
+    "departmentId": "TOL",
+    "year": 2015,
+    "petId": 2,
+    "count": 114
+  },
+  {
+    "departmentId": "TOL",
+    "year": 2015,
+    "petId": 3,
+    "count": 10
+  },
+  {
+    "departmentId": "TOL",
+    "year": 2015,
+    "petId": 4,
+    "count": 43
+  },
+  {
+    "departmentId": "TOL",
+    "year": 2015,
+    "petId": 5,
+    "count": 5
+  },
+  {
+    "departmentId": "TOL",
+    "year": 2020,
+    "petId": 1,
+    "count": 105
+  },
+  {
+    "departmentId": "TOL",
+    "year": 2020,
+    "petId": 2,
+    "count": 197
+  },
+  {
+    "departmentId": "TOL",
+    "year": 2020,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "TOL",
+    "year": 2020,
+    "petId": 4,
+    "count": 37
+  },
+  {
+    "departmentId": "TOL",
+    "year": 2020,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "TOL",
+    "year": 2025,
+    "petId": 1,
+    "count": 163
+  },
+  {
+    "departmentId": "TOL",
+    "year": 2025,
+    "petId": 2,
+    "count": 136
+  },
+  {
+    "departmentId": "TOL",
+    "year": 2025,
+    "petId": 3,
+    "count": 5
+  },
+  {
+    "departmentId": "TOL",
+    "year": 2025,
+    "petId": 4,
+    "count": 42
+  },
+  {
+    "departmentId": "TOL",
+    "year": 2025,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "VAC",
+    "year": 2000,
+    "petId": 1,
+    "count": 88
+  },
+  {
+    "departmentId": "VAC",
+    "year": 2000,
+    "petId": 2,
+    "count": 59
+  },
+  {
+    "departmentId": "VAC",
+    "year": 2000,
+    "petId": 3,
+    "count": 5
+  },
+  {
+    "departmentId": "VAC",
+    "year": 2000,
+    "petId": 4,
+    "count": 44
+  },
+  {
+    "departmentId": "VAC",
+    "year": 2000,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "VAC",
+    "year": 2005,
+    "petId": 1,
+    "count": 151
+  },
+  {
+    "departmentId": "VAC",
+    "year": 2005,
+    "petId": 2,
+    "count": 183
+  },
+  {
+    "departmentId": "VAC",
+    "year": 2005,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "VAC",
+    "year": 2005,
+    "petId": 4,
+    "count": 45
+  },
+  {
+    "departmentId": "VAC",
+    "year": 2005,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "VAC",
+    "year": 2010,
+    "petId": 1,
+    "count": 54
+  },
+  {
+    "departmentId": "VAC",
+    "year": 2010,
+    "petId": 2,
+    "count": 182
+  },
+  {
+    "departmentId": "VAC",
+    "year": 2010,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "VAC",
+    "year": 2010,
+    "petId": 4,
+    "count": 17
+  },
+  {
+    "departmentId": "VAC",
+    "year": 2010,
+    "petId": 5,
+    "count": 5
+  },
+  {
+    "departmentId": "VAC",
+    "year": 2015,
+    "petId": 1,
+    "count": 94
+  },
+  {
+    "departmentId": "VAC",
+    "year": 2015,
+    "petId": 2,
+    "count": 101
+  },
+  {
+    "departmentId": "VAC",
+    "year": 2015,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "VAC",
+    "year": 2015,
+    "petId": 4,
+    "count": 23
+  },
+  {
+    "departmentId": "VAC",
+    "year": 2015,
+    "petId": 5,
+    "count": 10
+  },
+  {
+    "departmentId": "VAC",
+    "year": 2020,
+    "petId": 1,
+    "count": 112
+  },
+  {
+    "departmentId": "VAC",
+    "year": 2020,
+    "petId": 2,
+    "count": 69
+  },
+  {
+    "departmentId": "VAC",
+    "year": 2020,
+    "petId": 3,
+    "count": 10
+  },
+  {
+    "departmentId": "VAC",
+    "year": 2020,
+    "petId": 4,
+    "count": 42
+  },
+  {
+    "departmentId": "VAC",
+    "year": 2020,
+    "petId": 5,
+    "count": 5
+  },
+  {
+    "departmentId": "VAC",
+    "year": 2025,
+    "petId": 1,
+    "count": 83
+  },
+  {
+    "departmentId": "VAC",
+    "year": 2025,
+    "petId": 2,
+    "count": 156
+  },
+  {
+    "departmentId": "VAC",
+    "year": 2025,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "VAC",
+    "year": 2025,
+    "petId": 4,
+    "count": 36
+  },
+  {
+    "departmentId": "VAC",
+    "year": 2025,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "VAU",
+    "year": 2000,
+    "petId": 1,
+    "count": 183
+  },
+  {
+    "departmentId": "VAU",
+    "year": 2000,
+    "petId": 2,
+    "count": 164
+  },
+  {
+    "departmentId": "VAU",
+    "year": 2000,
+    "petId": 3,
+    "count": 5
+  },
+  {
+    "departmentId": "VAU",
+    "year": 2000,
+    "petId": 4,
+    "count": 40
+  },
+  {
+    "departmentId": "VAU",
+    "year": 2000,
+    "petId": 5,
+    "count": 10
+  },
+  {
+    "departmentId": "VAU",
+    "year": 2005,
+    "petId": 1,
+    "count": 140
+  },
+  {
+    "departmentId": "VAU",
+    "year": 2005,
+    "petId": 2,
+    "count": 97
+  },
+  {
+    "departmentId": "VAU",
+    "year": 2005,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "VAU",
+    "year": 2005,
+    "petId": 4,
+    "count": 37
+  },
+  {
+    "departmentId": "VAU",
+    "year": 2005,
+    "petId": 5,
+    "count": 5
+  },
+  {
+    "departmentId": "VAU",
+    "year": 2010,
+    "petId": 1,
+    "count": 57
+  },
+  {
+    "departmentId": "VAU",
+    "year": 2010,
+    "petId": 2,
+    "count": 107
+  },
+  {
+    "departmentId": "VAU",
+    "year": 2010,
+    "petId": 3,
+    "count": 10
+  },
+  {
+    "departmentId": "VAU",
+    "year": 2010,
+    "petId": 4,
+    "count": 45
+  },
+  {
+    "departmentId": "VAU",
+    "year": 2010,
+    "petId": 5,
+    "count": 5
+  },
+  {
+    "departmentId": "VAU",
+    "year": 2015,
+    "petId": 1,
+    "count": 193
+  },
+  {
+    "departmentId": "VAU",
+    "year": 2015,
+    "petId": 2,
+    "count": 52
+  },
+  {
+    "departmentId": "VAU",
+    "year": 2015,
+    "petId": 3,
+    "count": 5
+  },
+  {
+    "departmentId": "VAU",
+    "year": 2015,
+    "petId": 4,
+    "count": 24
+  },
+  {
+    "departmentId": "VAU",
+    "year": 2015,
+    "petId": 5,
+    "count": 5
+  },
+  {
+    "departmentId": "VAU",
+    "year": 2020,
+    "petId": 1,
+    "count": 53
+  },
+  {
+    "departmentId": "VAU",
+    "year": 2020,
+    "petId": 2,
+    "count": 192
+  },
+  {
+    "departmentId": "VAU",
+    "year": 2020,
+    "petId": 3,
+    "count": 10
+  },
+  {
+    "departmentId": "VAU",
+    "year": 2020,
+    "petId": 4,
+    "count": 50
+  },
+  {
+    "departmentId": "VAU",
+    "year": 2020,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "VAU",
+    "year": 2025,
+    "petId": 1,
+    "count": 175
+  },
+  {
+    "departmentId": "VAU",
+    "year": 2025,
+    "petId": 2,
+    "count": 146
+  },
+  {
+    "departmentId": "VAU",
+    "year": 2025,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "VAU",
+    "year": 2025,
+    "petId": 4,
+    "count": 43
+  },
+  {
+    "departmentId": "VAU",
+    "year": 2025,
+    "petId": 5,
+    "count": 5
+  },
+  {
+    "departmentId": "VID",
+    "year": 2000,
+    "petId": 1,
+    "count": 174
+  },
+  {
+    "departmentId": "VID",
+    "year": 2000,
+    "petId": 2,
+    "count": 83
+  },
+  {
+    "departmentId": "VID",
+    "year": 2000,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "VID",
+    "year": 2000,
+    "petId": 4,
+    "count": 46
+  },
+  {
+    "departmentId": "VID",
+    "year": 2000,
+    "petId": 5,
+    "count": 10
+  },
+  {
+    "departmentId": "VID",
+    "year": 2005,
+    "petId": 1,
+    "count": 164
+  },
+  {
+    "departmentId": "VID",
+    "year": 2005,
+    "petId": 2,
+    "count": 166
+  },
+  {
+    "departmentId": "VID",
+    "year": 2005,
+    "petId": 3,
+    "count": 10
+  },
+  {
+    "departmentId": "VID",
+    "year": 2005,
+    "petId": 4,
+    "count": 17
+  },
+  {
+    "departmentId": "VID",
+    "year": 2005,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "VID",
+    "year": 2010,
+    "petId": 1,
+    "count": 73
+  },
+  {
+    "departmentId": "VID",
+    "year": 2010,
+    "petId": 2,
+    "count": 93
+  },
+  {
+    "departmentId": "VID",
+    "year": 2010,
+    "petId": 3,
+    "count": 5
+  },
+  {
+    "departmentId": "VID",
+    "year": 2010,
+    "petId": 4,
+    "count": 48
+  },
+  {
+    "departmentId": "VID",
+    "year": 2010,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "VID",
+    "year": 2015,
+    "petId": 1,
+    "count": 130
+  },
+  {
+    "departmentId": "VID",
+    "year": 2015,
+    "petId": 2,
+    "count": 195
+  },
+  {
+    "departmentId": "VID",
+    "year": 2015,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "VID",
+    "year": 2015,
+    "petId": 4,
+    "count": 14
+  },
+  {
+    "departmentId": "VID",
+    "year": 2015,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "VID",
+    "year": 2020,
+    "petId": 1,
+    "count": 80
+  },
+  {
+    "departmentId": "VID",
+    "year": 2020,
+    "petId": 2,
+    "count": 121
+  },
+  {
+    "departmentId": "VID",
+    "year": 2020,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "VID",
+    "year": 2020,
+    "petId": 4,
+    "count": 31
+  },
+  {
+    "departmentId": "VID",
+    "year": 2020,
+    "petId": 5,
+    "count": 0
+  },
+  {
+    "departmentId": "VID",
+    "year": 2025,
+    "petId": 1,
+    "count": 95
+  },
+  {
+    "departmentId": "VID",
+    "year": 2025,
+    "petId": 2,
+    "count": 73
+  },
+  {
+    "departmentId": "VID",
+    "year": 2025,
+    "petId": 3,
+    "count": 0
+  },
+  {
+    "departmentId": "VID",
+    "year": 2025,
+    "petId": 4,
+    "count": 25
+  },
+  {
+    "departmentId": "VID",
+    "year": 2025,
+    "petId": 5,
+    "count": 5
+  }
+]

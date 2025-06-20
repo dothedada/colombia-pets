@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Gato",
+    "favorite_food": "Pescado",
+    "average_lifespan": "15 años",
+    "common_color": "Gris"
+  },
+  {
+    "id": 2,
+    "name": "Perro",
+    "favorite_food": "Croquetas",
+    "average_lifespan": "13 años",
+    "common_color": "Marrón"
+  },
+  {
+    "id": 3,
+    "name": "Conejo",
+    "favorite_food": "Zanahorias",
+    "average_lifespan": "8 años",
+    "common_color": "Blanco"
+  },
+  {
+    "id": 4,
+    "name": "Loro",
+    "favorite_food": "Frutas",
+    "average_lifespan": "50 años",
+    "common_color": "Verde"
+  },
+  {
+    "id": 5,
+    "name": "Hámster",
+    "favorite_food": "Semillas",
+    "average_lifespan": "3 años",
+    "common_color": "Dorado"
+  }
+]

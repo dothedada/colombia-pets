@@ -1,0 +1,39 @@
+.general-info {
+    background: linear-gradient(135deg, #e3f2fd 0%, #ffffff 100%);
+    border-radius: 10px;
+    box-shadow: 0 4px 16px rgba(25, 118, 210, 0.10);
+    padding: 24px 28px 20px 28px;
+    margin-bottom: 24px;
+    transition: box-shadow 0.2s;
+    border-left: 5px solid #1976d2;
+}
+
+.general-info h3 {
+    margin-top: 0;
+    margin-bottom: 16px;
+    color: #1976d2;
+    font-size: 1.3rem;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}
+
+.general-info ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.general-info li {
+    margin-bottom: 10px;
+    font-size: 1.08rem;
+    color: #263238;
+    display: flex;
+    align-items: center;
+}
+
+.general-info li strong {
+    min-width: 110px;
+    color: #1976d2;
+    font-weight: 500;
+    margin-right: 8px;
+}

@@ -1,0 +1,109 @@
+body, html {
+    height: 100%;
+    background-color: #f5f7fa;
+    color: #222b45;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.app {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background: #f5f7fa;
+}
+
+header {
+    background-color: #1976d2;
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
+    letter-spacing: 1px;
+    font-weight: bold;
+    box-shadow: 0 2px 8px rgba(25, 118, 210, 0.08);
+}
+
+.main-layout {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px;
+    height: calc(100vh - 60px);
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.left-section, .right-section {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.left-section {
+    margin-right: 20px;
+}
+
+.dropdown {
+    margin-bottom: 20px;
+    background: #fff;
+    border-radius: 6px;
+    box-shadow: 0 2px 5px rgba(25, 118, 210, 0.06);
+    padding: 16px;
+}
+
+.graph {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(67, 160, 71, 0.08);
+    border-left: 4px solid #43a047;
+}
+
+.map {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(25, 118, 210, 0.08);
+    border-left: 4px solid #1976d2;
+}
+
+/* Estilos compartidos para los dropdowns */
+.shared-dropdown {
+    margin: 5px 0 0 0;
+    padding: 16px;
+    background: #fff;
+    border-radius: 6px;
+    box-shadow: 0 2px 5px rgba(25, 118, 210, 0.06);
+}
+
+.shared-dropdown label {
+    color: #1976d2;
+    font-weight: 600;
+    margin-bottom: 8px;
+    display: block;
+}
+
+.shared-dropdown select {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #1976d2;
+    border-radius: 4px;
+    background: #f5f7fa;
+    color: #222b45;
+    margin-top: 8px;
+    outline: none;
+    transition: border 0.2s;
+}
+
+.shared-dropdown select:focus {
+    border-color: #43a047;
+}

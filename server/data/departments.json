@@ -1,0 +1,290 @@
+[
+  {
+    "id": "AMZ",
+    "name": "Amazonas",
+    "area": 109665,
+    "capital": "Leticia",
+    "municipalities": 2,
+    "center_point": { "lat": -4.2153, "lng": -69.9406 },
+    "bbox": [-72.0, -4.2, -69.4, -1.2]
+  },
+  {
+    "id": "ANT",
+    "name": "Antioquia",
+    "area": 63612,
+    "capital": "Medellín",
+    "municipalities": 125,
+    "center_point": { "lat": 6.2442, "lng": -75.5812 },
+    "bbox": [-76.0, 5.0, -73.5, 8.9]
+  },
+  {
+    "id": "ARA",
+    "name": "Arauca",
+    "area": 23818,
+    "capital": "Arauca",
+    "municipalities": 7,
+    "center_point": { "lat": 7.0847, "lng": -70.7591 },
+    "bbox": [-71.5, 6.2, -69.6, 7.3]
+  },
+  {
+    "id": "ATL",
+    "name": "Atlántico",
+    "area": 3388,
+    "capital": "Barranquilla",
+    "municipalities": 23,
+    "center_point": { "lat": 10.9685, "lng": -74.7813 },
+    "bbox": [-75.1, 10.4, -74.4, 11.2]
+  },
+  {
+    "id": "BOL",
+    "name": "Bolívar",
+    "area": 25978,
+    "capital": "Cartagena",
+    "municipalities": 46,
+    "center_point": { "lat": 10.3910, "lng": -75.4794 },
+    "bbox": [-75.5, 10.1, -74.2, 10.7]
+  },
+  {
+    "id": "BOY",
+    "name": "Boyacá",
+    "area": 23189,
+    "capital": "Tunja",
+    "municipalities": 123,
+    "center_point": { "lat": 5.5353, "lng": -73.3678 },
+    "bbox": [-73.8, 5.1, -72.3, 7.0]
+  },
+  {
+    "id": "CAL",
+    "name": "Caldas",
+    "area": 7888,
+    "capital": "Manizales",
+    "municipalities": 27,
+    "center_point": { "lat": 5.0689, "lng": -75.5174 },
+    "bbox": [-75.8, 4.9, -74.8, 5.4]
+  },
+  {
+    "id": "CAQ",
+    "name": "Caquetá",
+    "area": 88965,
+    "capital": "Florencia",
+    "municipalities": 16,
+    "center_point": { "lat": 1.6144, "lng": -75.6062 },
+    "bbox": [-76.2, 0.9, -74.8, 2.4]
+  },
+  {
+    "id": "CAS",
+    "name": "Casanare",
+    "area": 44640,
+    "capital": "Yopal",
+    "municipalities": 19,
+    "center_point": { "lat": 5.3378, "lng": -72.3959 },
+    "bbox": [-73.0, 4.9, -71.8, 6.0]
+  },
+  {
+    "id": "CAU",
+    "name": "Cauca",
+    "area": 29308,
+    "capital": "Popayán",
+    "municipalities": 42,
+    "center_point": { "lat": 2.4448, "lng": -76.6147 },
+    "bbox": [-77.3, 1.9, -75.9, 3.0]
+  },
+  {
+    "id": "CES",
+    "name": "Cesar",
+    "area": 22905,
+    "capital": "Valledupar",
+    "municipalities": 25,
+    "center_point": { "lat": 10.4631, "lng": -73.2532 },
+    "bbox": [-74.2, 10.1, -73.0, 11.0]
+  },
+  {
+    "id": "CHO",
+    "name": "Chocó",
+    "area": 46530,
+    "capital": "Quibdó",
+    "municipalities": 30,
+    "center_point": { "lat": 5.6947, "lng": -76.6611 },
+    "bbox": [-77.4, 5.4, -76.0, 6.2]
+  },
+  {
+    "id": "COR",
+    "name": "Córdoba",
+    "area": 25141,
+    "capital": "Montería",
+    "municipalities": 30,
+    "center_point": { "lat": 8.7479, "lng": -75.8814 },
+    "bbox": [-76.5, 8.3, -75.2, 9.1]
+  },
+  {
+    "id": "CUN",
+    "name": "Cundinamarca",
+    "area": 24068,
+    "capital": "Bogotá",
+    "municipalities": 116,
+    "center_point": { "lat": 4.7110, "lng": -74.0721 },
+    "bbox": [-74.8, 4.5, -73.5, 5.2]
+  },
+  {
+    "id": "GUA",
+    "name": "Guainía",
+    "area": 72238,
+    "capital": "Inírida",
+    "municipalities": 1,
+    "center_point": { "lat": 3.8653, "lng": -67.9235 },
+    "bbox": [-68.2, 3.5, -67.6, 4.2]
+  },
+  {
+    "id": "GUV",
+    "name": "Guaviare",
+    "area": 53460,
+    "capital": "San José del Guaviare",
+    "municipalities": 4,
+    "center_point": { "lat": 2.5729, "lng": -72.6459 },
+    "bbox": [-73.2, 2.2, -72.3, 3.0]
+  },
+  {
+    "id": "HUI",
+    "name": "Huila",
+    "area": 19389,
+    "capital": "Neiva",
+    "municipalities": 37,
+    "center_point": { "lat": 2.9273, "lng": -75.2819 },
+    "bbox": [-76.0, 2.5, -75.0, 3.4]
+  },
+  {
+    "id": "GUJ",
+    "name": "La Guajira",
+    "area": 20848,
+    "capital": "Riohacha",
+    "municipalities": 15,
+    "center_point": { "lat": 11.5444, "lng": -72.9072 },
+    "bbox": [-73.0, 10.5, -72.5, 11.5]
+  },
+  {
+    "id": "MAG",
+    "name": "Magdalena",
+    "area": 23188,
+    "capital": "Santa Marta",
+    "municipalities": 30,
+    "center_point": { "lat": 11.2408, "lng": -74.1990 },
+    "bbox": [-75.0, 10.8, -74.2, 11.2]
+  },
+  {
+    "id": "MET",
+    "name": "Meta",
+    "area": 85335,
+    "capital": "Villavicencio",
+    "municipalities": 29,
+    "center_point": { "lat": 4.1514, "lng": -73.6379 },
+    "bbox": [-74.8, 3.5, -72.5, 5.0]
+  },
+  {
+    "id": "NAR",
+    "name": "Nariño",
+    "area": 33268,
+    "capital": "Pasto",
+    "municipalities": 64,
+    "center_point": { "lat": 1.2136, "lng": -77.2811 },
+    "bbox": [-78.0, 0.5, -77.0, 2.5]
+  },
+  {
+    "id": "NSA",
+    "name": "Norte de Santander",
+    "area": 21658,
+    "capital": "Cúcuta",
+    "municipalities": 40,
+    "center_point": { "lat": 7.8939, "lng": -72.5078 },
+    "bbox": [-73.2, 7.5, -72.5, 8.2]
+  },
+  {
+    "id": "PUT",
+    "name": "Putumayo",
+    "area": 24885,
+    "capital": "Mocoa",
+    "municipalities": 13,
+    "center_point": { "lat": 1.1520, "lng": -76.6498 },
+    "bbox": [-77.0, 0.5, -76.0, 2.0]
+  },
+  {
+    "id": "QUI",
+    "name": "Quindío",
+    "area": 1845,
+    "capital": "Armenia",
+    "municipalities": 12,
+    "center_point": { "lat": 4.5339, "lng": -75.6811 },
+    "bbox": [-76.0, 4.2, -75.5, 4.8]
+  },
+  {
+    "id": "RIS",
+    "name": "Risaralda",
+    "area": 4140,
+    "capital": "Pereira",
+    "municipalities": 14,
+    "center_point": { "lat": 4.8087, "lng": -75.6906 },
+    "bbox": [-76.0, 4.5, -75.5, 5.2]
+  },
+  {
+    "id": "SAP",
+    "name": "San Andrés y Providencia",
+    "area": 44,
+    "capital": "San Andrés",
+    "municipalities": 2,
+    "center_point": { "lat": 12.5847, "lng": -81.7006 },
+    "bbox": [-81.8, 12.5, -81.6, 12.7]
+  },
+  {
+    "id": "SAN",
+    "name": "Santander",
+    "area": 30537,
+    "capital": "Bucaramanga",
+    "municipalities": 87,
+    "center_point": { "lat": 7.1193, "lng": -73.1227 },
+    "bbox": [-73.5, 7.0, -72.5, 8.0]
+  },
+  {
+    "id": "SUC",
+    "name": "Sucre",
+    "area": 10917,
+    "capital": "Sincelejo",
+    "municipalities": 26,
+    "center_point": { "lat": 9.3047, "lng": -75.3978 },
+    "bbox": [-76.0, 8.5, -75.0, 9.2]
+  },
+  {
+    "id": "TOL",
+    "name": "Tolima",
+    "area": 23562,
+    "capital": "Ibagué",
+    "municipalities": 47,
+    "center_point": { "lat": 4.4389, "lng": -75.2322 },
+    "bbox": [-76.0, 4.0, -75.0, 5.0]
+  },
+  {
+    "id": "VAC",
+    "name": "Valle del Cauca",
+    "area": 22140,
+    "capital": "Cali",
+    "municipalities": 42,
+    "center_point": { "lat": 3.4516, "lng": -76.5320 },
+    "bbox": [-77.0, 3.0, -76.0, 4.0]
+  },
+  {
+    "id": "VAU",
+    "name": "Vaupés",
+    "area": 54400,
+    "capital": "Mitú",
+    "municipalities": 3,
+    "center_point": { "lat": 1.2500, "lng": -70.2333 },
+    "bbox": [-71.0, 0.5, -70.0, 2.0]
+  },
+  {
+    "id": "VID",
+    "name": "Vichada",
+    "area": 100242,
+    "capital": "Puerto Carreño",
+    "municipalities": 4,
+    "center_point": { "lat": 6.1858, "lng": -67.4859 },
+    "bbox": [-68.5, 5.5, -67.0, 6.5]
+  }
+]
